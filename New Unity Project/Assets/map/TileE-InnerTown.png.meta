@@ -1,0 +1,6536 @@
+fileFormatVersion: 2
+guid: 90602f433e2be984a8c877f5f39f1ff0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2671690548795141103
+    second: TileE-InnerTown_0
+  - first:
+      213: -6070865425278205191
+    second: TileE-InnerTown_1
+  - first:
+      213: 8279495829549429593
+    second: TileE-InnerTown_2
+  - first:
+      213: -2483610767358600085
+    second: TileE-InnerTown_3
+  - first:
+      213: 6550127131444529564
+    second: TileE-InnerTown_4
+  - first:
+      213: 752191309016342048
+    second: TileE-InnerTown_5
+  - first:
+      213: 7652521797315578629
+    second: TileE-InnerTown_6
+  - first:
+      213: 6491334820268639023
+    second: TileE-InnerTown_7
+  - first:
+      213: 5689028118835849505
+    second: TileE-InnerTown_8
+  - first:
+      213: -1162649230498518076
+    second: TileE-InnerTown_9
+  - first:
+      213: -3169907124038499149
+    second: TileE-InnerTown_10
+  - first:
+      213: 4030166170588107356
+    second: TileE-InnerTown_11
+  - first:
+      213: -8432428615353392769
+    second: TileE-InnerTown_12
+  - first:
+      213: 3745396562597730476
+    second: TileE-InnerTown_13
+  - first:
+      213: 6467869758944763678
+    second: TileE-InnerTown_14
+  - first:
+      213: 5797480786913905566
+    second: TileE-InnerTown_15
+  - first:
+      213: 6199849904289715284
+    second: TileE-InnerTown_16
+  - first:
+      213: 2120592963731459470
+    second: TileE-InnerTown_17
+  - first:
+      213: -3409810860484566521
+    second: TileE-InnerTown_18
+  - first:
+      213: 7183840985105573218
+    second: TileE-InnerTown_19
+  - first:
+      213: 3769758043728557122
+    second: TileE-InnerTown_20
+  - first:
+      213: -9149282405890359623
+    second: TileE-InnerTown_21
+  - first:
+      213: 2756429276215076469
+    second: TileE-InnerTown_22
+  - first:
+      213: -9197644373851934300
+    second: TileE-InnerTown_23
+  - first:
+      213: -5426280680354965146
+    second: TileE-InnerTown_24
+  - first:
+      213: 2867927804845258175
+    second: TileE-InnerTown_25
+  - first:
+      213: 528663438622641630
+    second: TileE-InnerTown_26
+  - first:
+      213: -6606422489942514739
+    second: TileE-InnerTown_27
+  - first:
+      213: 8171965916778120996
+    second: TileE-InnerTown_28
+  - first:
+      213: 2377801216696843843
+    second: TileE-InnerTown_29
+  - first:
+      213: 6020408801834332198
+    second: TileE-InnerTown_30
+  - first:
+      213: -4659971287527559980
+    second: TileE-InnerTown_31
+  - first:
+      213: 2485319578114923869
+    second: TileE-InnerTown_32
+  - first:
+      213: 1404587187459534305
+    second: TileE-InnerTown_33
+  - first:
+      213: 4387522486257565377
+    second: TileE-InnerTown_34
+  - first:
+      213: 8950961510674429408
+    second: TileE-InnerTown_35
+  - first:
+      213: -6932519381002478826
+    second: TileE-InnerTown_36
+  - first:
+      213: 6429665768640100283
+    second: TileE-InnerTown_37
+  - first:
+      213: -6638172346520493568
+    second: TileE-InnerTown_38
+  - first:
+      213: -4298551640724796148
+    second: TileE-InnerTown_39
+  - first:
+      213: 964093730106305100
+    second: TileE-InnerTown_40
+  - first:
+      213: -3190131588511483525
+    second: TileE-InnerTown_41
+  - first:
+      213: 9098352772983389120
+    second: TileE-InnerTown_42
+  - first:
+      213: -3148681356808349944
+    second: TileE-InnerTown_43
+  - first:
+      213: 3433171535900269256
+    second: TileE-InnerTown_44
+  - first:
+      213: -5059231773891343430
+    second: TileE-InnerTown_45
+  - first:
+      213: 4646924471422344594
+    second: TileE-InnerTown_46
+  - first:
+      213: 2434119729444980098
+    second: TileE-InnerTown_47
+  - first:
+      213: 9148840485747311814
+    second: TileE-InnerTown_48
+  - first:
+      213: 3055710114982231683
+    second: TileE-InnerTown_49
+  - first:
+      213: -8137962405276456155
+    second: TileE-InnerTown_50
+  - first:
+      213: -2422596516479658565
+    second: TileE-InnerTown_51
+  - first:
+      213: 928665330971898057
+    second: TileE-InnerTown_52
+  - first:
+      213: -1021136881015260118
+    second: TileE-InnerTown_53
+  - first:
+      213: 8000330250607751368
+    second: TileE-InnerTown_54
+  - first:
+      213: 1872467856822029361
+    second: TileE-InnerTown_55
+  - first:
+      213: -2072925373582766366
+    second: TileE-InnerTown_56
+  - first:
+      213: 3935752444122905915
+    second: TileE-InnerTown_57
+  - first:
+      213: 3147183776173327470
+    second: TileE-InnerTown_58
+  - first:
+      213: -3469313227102209189
+    second: TileE-InnerTown_59
+  - first:
+      213: -4715018322438658662
+    second: TileE-InnerTown_60
+  - first:
+      213: -1192753926056799372
+    second: TileE-InnerTown_61
+  - first:
+      213: 1185359228047356901
+    second: TileE-InnerTown_62
+  - first:
+      213: -6879358064676768217
+    second: TileE-InnerTown_63
+  - first:
+      213: -7547900184864182174
+    second: TileE-InnerTown_64
+  - first:
+      213: 7690091096745341256
+    second: TileE-InnerTown_65
+  - first:
+      213: 5715791214876927043
+    second: TileE-InnerTown_66
+  - first:
+      213: -31210367669481040
+    second: TileE-InnerTown_67
+  - first:
+      213: 6404255149073389842
+    second: TileE-InnerTown_68
+  - first:
+      213: -2635919982610667340
+    second: TileE-InnerTown_69
+  - first:
+      213: 4208463357617465395
+    second: TileE-InnerTown_70
+  - first:
+      213: -3805446957385464213
+    second: TileE-InnerTown_71
+  - first:
+      213: -9162628774015078889
+    second: TileE-InnerTown_72
+  - first:
+      213: 8762253158257875461
+    second: TileE-InnerTown_73
+  - first:
+      213: -5883971570480349294
+    second: TileE-InnerTown_74
+  - first:
+      213: 6735966076429553133
+    second: TileE-InnerTown_75
+  - first:
+      213: -7927302651143227171
+    second: TileE-InnerTown_76
+  - first:
+      213: -4124624263595630486
+    second: TileE-InnerTown_77
+  - first:
+      213: 6709090132357986037
+    second: TileE-InnerTown_78
+  - first:
+      213: 3786741359235199910
+    second: TileE-InnerTown_79
+  - first:
+      213: 963333787184690443
+    second: TileE-InnerTown_80
+  - first:
+      213: 4953966127271352837
+    second: TileE-InnerTown_81
+  - first:
+      213: 4467467136262549509
+    second: TileE-InnerTown_82
+  - first:
+      213: 5534674966207355265
+    second: TileE-InnerTown_83
+  - first:
+      213: 827656648721906652
+    second: TileE-InnerTown_84
+  - first:
+      213: 477504611179668225
+    second: TileE-InnerTown_85
+  - first:
+      213: -6217889379044728522
+    second: TileE-InnerTown_86
+  - first:
+      213: 4576406819792140419
+    second: TileE-InnerTown_87
+  - first:
+      213: -3385271466476688053
+    second: TileE-InnerTown_88
+  - first:
+      213: 8936122057567418437
+    second: TileE-InnerTown_89
+  - first:
+      213: -7207872513717929789
+    second: TileE-InnerTown_90
+  - first:
+      213: 6802585893586638755
+    second: TileE-InnerTown_91
+  - first:
+      213: 5423150399758481747
+    second: TileE-InnerTown_92
+  - first:
+      213: -2162835918847546852
+    second: TileE-InnerTown_93
+  - first:
+      213: 2898986962492801168
+    second: TileE-InnerTown_94
+  - first:
+      213: 146077255967940768
+    second: TileE-InnerTown_95
+  - first:
+      213: -6040958583429110407
+    second: TileE-InnerTown_96
+  - first:
+      213: 8120610645223295144
+    second: TileE-InnerTown_97
+  - first:
+      213: -403909886877640789
+    second: TileE-InnerTown_98
+  - first:
+      213: 1111653014020431549
+    second: TileE-InnerTown_99
+  - first:
+      213: 3247138174035967086
+    second: TileE-InnerTown_100
+  - first:
+      213: -1524626749952079685
+    second: TileE-InnerTown_101
+  - first:
+      213: 5767865977974371873
+    second: TileE-InnerTown_102
+  - first:
+      213: 4079996425343651904
+    second: TileE-InnerTown_103
+  - first:
+      213: 2499011851623119794
+    second: TileE-InnerTown_104
+  - first:
+      213: -2471556021243990148
+    second: TileE-InnerTown_105
+  - first:
+      213: -7409670439824453272
+    second: TileE-InnerTown_106
+  - first:
+      213: 4230199138637534036
+    second: TileE-InnerTown_107
+  - first:
+      213: 4405154162948275449
+    second: TileE-InnerTown_108
+  - first:
+      213: 4477729177939076345
+    second: TileE-InnerTown_109
+  - first:
+      213: -7541591399186237025
+    second: TileE-InnerTown_110
+  - first:
+      213: 979182121336559276
+    second: TileE-InnerTown_111
+  - first:
+      213: -3810212301589906342
+    second: TileE-InnerTown_112
+  - first:
+      213: 1708679995828705344
+    second: TileE-InnerTown_113
+  - first:
+      213: -2416483370547122431
+    second: TileE-InnerTown_114
+  - first:
+      213: -4259185367322117218
+    second: TileE-InnerTown_115
+  - first:
+      213: 2411835211430555595
+    second: TileE-InnerTown_116
+  - first:
+      213: -5819996503219281223
+    second: TileE-InnerTown_117
+  - first:
+      213: 1809973148916296014
+    second: TileE-InnerTown_118
+  - first:
+      213: -9114818259523265162
+    second: TileE-InnerTown_119
+  - first:
+      213: 7989881016285741962
+    second: TileE-InnerTown_120
+  - first:
+      213: -2016801002750395825
+    second: TileE-InnerTown_121
+  - first:
+      213: 3840833050070755260
+    second: TileE-InnerTown_122
+  - first:
+      213: 5468941098676303365
+    second: TileE-InnerTown_123
+  - first:
+      213: 5280923067742194194
+    second: TileE-InnerTown_124
+  - first:
+      213: 5526082593419525730
+    second: TileE-InnerTown_125
+  - first:
+      213: -5810057685072336104
+    second: TileE-InnerTown_126
+  - first:
+      213: -9136001516244626210
+    second: TileE-InnerTown_127
+  - first:
+      213: -1884729272036420387
+    second: TileE-InnerTown_128
+  - first:
+      213: -8391727392113379730
+    second: TileE-InnerTown_129
+  - first:
+      213: 1363874217732731171
+    second: TileE-InnerTown_130
+  - first:
+      213: 7562146802691542013
+    second: TileE-InnerTown_131
+  - first:
+      213: 4510300231711257236
+    second: TileE-InnerTown_132
+  - first:
+      213: -6480721560369114097
+    second: TileE-InnerTown_133
+  - first:
+      213: -7726321962431851489
+    second: TileE-InnerTown_134
+  - first:
+      213: 7373982595192663845
+    second: TileE-InnerTown_135
+  - first:
+      213: -8529818237757510531
+    second: TileE-InnerTown_136
+  - first:
+      213: -1831004258337165032
+    second: TileE-InnerTown_137
+  - first:
+      213: -5252449815087404455
+    second: TileE-InnerTown_138
+  - first:
+      213: 6001983592184284067
+    second: TileE-InnerTown_139
+  - first:
+      213: 4273643541014124912
+    second: TileE-InnerTown_140
+  - first:
+      213: 1116184520883574080
+    second: TileE-InnerTown_141
+  - first:
+      213: 3137163872888014641
+    second: TileE-InnerTown_142
+  - first:
+      213: 2281185619704048181
+    second: TileE-InnerTown_143
+  - first:
+      213: -2608411171592102797
+    second: TileE-InnerTown_144
+  - first:
+      213: 2244364154758511311
+    second: TileE-InnerTown_145
+  - first:
+      213: 3715219473192431996
+    second: TileE-InnerTown_146
+  - first:
+      213: 1555666148708718589
+    second: TileE-InnerTown_147
+  - first:
+      213: -1932647898696062052
+    second: TileE-InnerTown_148
+  - first:
+      213: -7826438526450607533
+    second: TileE-InnerTown_149
+  - first:
+      213: 1572945665385109857
+    second: TileE-InnerTown_150
+  - first:
+      213: 6573845042680764669
+    second: TileE-InnerTown_151
+  - first:
+      213: -8139782404126588835
+    second: TileE-InnerTown_152
+  - first:
+      213: -9222665034105104904
+    second: TileE-InnerTown_153
+  - first:
+      213: -3319995129984632757
+    second: TileE-InnerTown_154
+  - first:
+      213: 5289392576421446764
+    second: TileE-InnerTown_155
+  - first:
+      213: 2426574426353677385
+    second: TileE-InnerTown_156
+  - first:
+      213: 4769245132274016359
+    second: TileE-InnerTown_157
+  - first:
+      213: 924031567881408517
+    second: TileE-InnerTown_158
+  - first:
+      213: -2578846233974845916
+    second: TileE-InnerTown_159
+  - first:
+      213: 6284308679773890191
+    second: TileE-InnerTown_160
+  - first:
+      213: -2988547966705145872
+    second: TileE-InnerTown_161
+  - first:
+      213: 2050943904072505377
+    second: TileE-InnerTown_162
+  - first:
+      213: 551559166338192079
+    second: TileE-InnerTown_163
+  - first:
+      213: 2952842294788389905
+    second: TileE-InnerTown_164
+  - first:
+      213: 6189370625324624831
+    second: TileE-InnerTown_165
+  - first:
+      213: -6854656912118064708
+    second: TileE-InnerTown_166
+  - first:
+      213: 1447330706466781149
+    second: TileE-InnerTown_167
+  - first:
+      213: 7249424886645909401
+    second: TileE-InnerTown_168
+  - first:
+      213: -8967599939384047622
+    second: TileE-InnerTown_169
+  - first:
+      213: -4048457550106492982
+    second: TileE-InnerTown_170
+  - first:
+      213: 9131008255327042673
+    second: TileE-InnerTown_171
+  - first:
+      213: -2128511430155390088
+    second: TileE-InnerTown_172
+  - first:
+      213: -703188502412198948
+    second: TileE-InnerTown_173
+  - first:
+      213: -6370310675766744413
+    second: TileE-InnerTown_174
+  - first:
+      213: 8055613460877295307
+    second: TileE-InnerTown_175
+  - first:
+      213: -8286468983027318599
+    second: TileE-InnerTown_176
+  - first:
+      213: 6842727186968962748
+    second: TileE-InnerTown_177
+  - first:
+      213: -9040106187309305575
+    second: TileE-InnerTown_178
+  - first:
+      213: -8911446640005596771
+    second: TileE-InnerTown_179
+  - first:
+      213: -7269941794505988101
+    second: TileE-InnerTown_180
+  - first:
+      213: -5251794308997584182
+    second: TileE-InnerTown_181
+  - first:
+      213: -5637390847203293491
+    second: TileE-InnerTown_182
+  - first:
+      213: 1262445715691293536
+    second: TileE-InnerTown_183
+  - first:
+      213: 7199921795146839677
+    second: TileE-InnerTown_184
+  - first:
+      213: 920139064291144400
+    second: TileE-InnerTown_185
+  - first:
+      213: -6369065248677628393
+    second: TileE-InnerTown_186
+  - first:
+      213: -6492977986349215305
+    second: TileE-InnerTown_187
+  - first:
+      213: -4185558108051901804
+    second: TileE-InnerTown_188
+  - first:
+      213: 6598812256454640880
+    second: TileE-InnerTown_189
+  - first:
+      213: 4926442745138622366
+    second: TileE-InnerTown_190
+  - first:
+      213: -952825086880104839
+    second: TileE-InnerTown_191
+  - first:
+      213: 6785767163200179182
+    second: TileE-InnerTown_192
+  - first:
+      213: 8876865154148349222
+    second: TileE-InnerTown_193
+  - first:
+      213: -3825847427123823859
+    second: TileE-InnerTown_194
+  - first:
+      213: 3393708336443783633
+    second: TileE-InnerTown_195
+  - first:
+      213: 1753564184608419914
+    second: TileE-InnerTown_196
+  - first:
+      213: 4989059032171849588
+    second: TileE-InnerTown_197
+  - first:
+      213: -1011237170623335918
+    second: TileE-InnerTown_198
+  - first:
+      213: 6850310108717866995
+    second: TileE-InnerTown_199
+  - first:
+      213: -2811033749945490351
+    second: TileE-InnerTown_200
+  - first:
+      213: 4790677970592004723
+    second: TileE-InnerTown_201
+  - first:
+      213: 8299097459025675348
+    second: TileE-InnerTown_202
+  - first:
+      213: 7121699443477139322
+    second: TileE-InnerTown_203
+  - first:
+      213: -8305857962156018580
+    second: TileE-InnerTown_204
+  - first:
+      213: 3142937492774667218
+    second: TileE-InnerTown_205
+  - first:
+      213: -2256878183616548508
+    second: TileE-InnerTown_206
+  - first:
+      213: 4808103076633597497
+    second: TileE-InnerTown_207
+  - first:
+      213: 6826823612278019230
+    second: TileE-InnerTown_208
+  - first:
+      213: -7075035651065071705
+    second: TileE-InnerTown_209
+  - first:
+      213: -7721502726065321296
+    second: TileE-InnerTown_210
+  - first:
+      213: -2887096979676078573
+    second: TileE-InnerTown_211
+  - first:
+      213: 6792255901936645092
+    second: TileE-InnerTown_212
+  - first:
+      213: 624293799167048969
+    second: TileE-InnerTown_213
+  - first:
+      213: -1558067389032029027
+    second: TileE-InnerTown_214
+  - first:
+      213: -7426106340952416400
+    second: TileE-InnerTown_215
+  - first:
+      213: -4984381008351331340
+    second: TileE-InnerTown_216
+  - first:
+      213: 6802490503551448992
+    second: TileE-InnerTown_217
+  - first:
+      213: -6403824161947261038
+    second: TileE-InnerTown_218
+  - first:
+      213: -6133603253786172470
+    second: TileE-InnerTown_219
+  - first:
+      213: 6933138234960290083
+    second: TileE-InnerTown_220
+  - first:
+      213: 8558562611895984186
+    second: TileE-InnerTown_221
+  - first:
+      213: 1009733040345691201
+    second: TileE-InnerTown_222
+  - first:
+      213: -4940680306159420774
+    second: TileE-InnerTown_223
+  - first:
+      213: 574534659932319886
+    second: TileE-InnerTown_224
+  - first:
+      213: 5206376386680688600
+    second: TileE-InnerTown_225
+  - first:
+      213: 8032644199921733812
+    second: TileE-InnerTown_226
+  - first:
+      213: -7800391286588613248
+    second: TileE-InnerTown_227
+  - first:
+      213: 6994505336819755253
+    second: TileE-InnerTown_228
+  - first:
+      213: 1930518222498002679
+    second: TileE-InnerTown_229
+  - first:
+      213: -1402509822443548092
+    second: TileE-InnerTown_230
+  - first:
+      213: 6836338529772675615
+    second: TileE-InnerTown_231
+  - first:
+      213: -1922942370846658790
+    second: TileE-InnerTown_232
+  - first:
+      213: -9183711026859911938
+    second: TileE-InnerTown_233
+  - first:
+      213: 1354943915311325514
+    second: TileE-InnerTown_234
+  - first:
+      213: 6009451010948308842
+    second: TileE-InnerTown_235
+  - first:
+      213: 8697795883579939949
+    second: TileE-InnerTown_236
+  - first:
+      213: 7568426252587225760
+    second: TileE-InnerTown_237
+  - first:
+      213: -1970124788213149936
+    second: TileE-InnerTown_238
+  - first:
+      213: -3915310603174915690
+    second: TileE-InnerTown_239
+  - first:
+      213: 5021821019417064822
+    second: TileE-InnerTown_240
+  - first:
+      213: -2390023523375667233
+    second: TileE-InnerTown_241
+  - first:
+      213: -4861128891998030242
+    second: TileE-InnerTown_242
+  - first:
+      213: -5781036205860708439
+    second: TileE-InnerTown_243
+  - first:
+      213: -3980193943035742165
+    second: TileE-InnerTown_244
+  - first:
+      213: -1802020750482213975
+    second: TileE-InnerTown_245
+  - first:
+      213: 8818747711138545197
+    second: TileE-InnerTown_246
+  - first:
+      213: 4660825016512806508
+    second: TileE-InnerTown_247
+  - first:
+      213: -4931109816674517599
+    second: TileE-InnerTown_248
+  - first:
+      213: -5126372677528720292
+    second: TileE-InnerTown_249
+  - first:
+      213: -5380712221094516813
+    second: TileE-InnerTown_250
+  - first:
+      213: 1437826494221422471
+    second: TileE-InnerTown_251
+  - first:
+      213: -3572176326287539939
+    second: TileE-InnerTown_252
+  - first:
+      213: -3819776723978129835
+    second: TileE-InnerTown_253
+  - first:
+      213: -849698064575614681
+    second: TileE-InnerTown_254
+  - first:
+      213: -1605118476630543559
+    second: TileE-InnerTown_255
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileE-InnerTown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0488b7f5e0ac56f448120bd69c29e1f5
+      internalID: -2671690548795141103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3bb13e943884f4897975e5063d90bc
+      internalID: -6070865425278205191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d88589395f2c4d91a08f4000f3e91
+      internalID: 8279495829549429593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8647af28d6e6a8443834eb179092d400
+      internalID: -2483610767358600085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4370801d9714fc24b848776aebe4af5c
+      internalID: 6550127131444529564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30984a91503825c4f81e4401fd53d435
+      internalID: 752191309016342048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c86cef29d0d884ab3af03958d69ac3
+      internalID: 7652521797315578629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb846a1c8ae8ee45a619292106603be
+      internalID: 6491334820268639023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd429a4b085732f4aa4389051ae3250c
+      internalID: 5689028118835849505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4013c9950df35064589130adc7f08309
+      internalID: -1162649230498518076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13418d0ad3085124a8ce09031cf043dd
+      internalID: -3169907124038499149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c01621f1f9e6bb40b5442b7f5f85ff8
+      internalID: 4030166170588107356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8805c3de1e44b1f4697ab1f8f17f850c
+      internalID: -8432428615353392769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821469f6f5d8fc84fac4b2e3036dfeb9
+      internalID: 3745396562597730476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f888ec81cdcb4ba2ce5d49339c6e3
+      internalID: 6467869758944763678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485c13fc8700f8449bdad328e3e52aeb
+      internalID: 5797480786913905566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2becf51ff1178134eaae16930c6ccfcd
+      internalID: 6199849904289715284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea26df95bfaa9b44ab95c2f401fa5ec
+      internalID: 2120592963731459470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f757f6aa545e24db8fa5baae5727ca
+      internalID: -3409810860484566521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3688e4fb866c4734c9079242c92f77e7
+      internalID: 7183840985105573218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee84a2ceb5fc3b448b70a39fe8a32905
+      internalID: 3769758043728557122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d29422db53a57e4c818e330ab9cb16f
+      internalID: -9149282405890359623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3146fe1f99bd666409087f5b03c74a14
+      internalID: 2756429276215076469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a084b4123eca764ab57ec585dc5c2da
+      internalID: -9197644373851934300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4b9e47f285c7740817383cc37e1d1c
+      internalID: -5426280680354965146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805aa89249cffc4f9f506b69ab209c4
+      internalID: 2867927804845258175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff28837fdc56274d8794597448db1ed
+      internalID: 528663438622641630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c744d7d55cb5b4c9d453fa49148880
+      internalID: -6606422489942514739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12db87e706c7dec48acc4c190b138b4e
+      internalID: 8171965916778120996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9d48c16a8968e4685fd5c32744213f
+      internalID: 2377801216696843843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabb874d272b47a4f8df8ef9f6f9dcbd
+      internalID: 6020408801834332198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788fb26403b8dc84ca6f8556823e4768
+      internalID: -4659971287527559980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91b9b6250570cb41829d2bae3ebeb98
+      internalID: 2485319578114923869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d90d4aa3b0802a49ab4d003b5fee46e
+      internalID: 1404587187459534305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4738dcc2db2975a418b9ba4bd7b46be6
+      internalID: 4387522486257565377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899c6e5094f83a540844fcbd024153f3
+      internalID: 8950961510674429408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708177938c872834495fd75a880c2da1
+      internalID: -6932519381002478826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc272d22c9e4f24297e22a2bcbc990b
+      internalID: 6429665768640100283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385be4e4b3d841042b3f2c412f3ef654
+      internalID: -6638172346520493568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec44ce51e1d8c743a6dc319438e37d4
+      internalID: -4298551640724796148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1888dcc0b49e5d4aad0e4d8566b0b07
+      internalID: 964093730106305100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaabe5e838d55014d9189334aa4e1a21
+      internalID: -3190131588511483525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a166bc3f80055de45aef189c78a79a18
+      internalID: 9098352772983389120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff11c2a5f53e2743bc0baeea5409c03
+      internalID: -3148681356808349944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1835903c3bafedf4eb67925132100eb9
+      internalID: 3433171535900269256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aa44cd81a0dc54da461d75af3360c4
+      internalID: -5059231773891343430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da2f0dd8cc951f4f9cc0184eed2baf9
+      internalID: 4646924471422344594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2112dbe05e98b6b4e9be1fb4291f4db7
+      internalID: 2434119729444980098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff1132131dcb14d87d558d23e244f6
+      internalID: 9148840485747311814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c5d898d0d40d499e7ad0a040b0b14
+      internalID: 3055710114982231683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba719f991632584da91059abbfa9101
+      internalID: -8137962405276456155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c3706d687779c4e95071d9ba71d731
+      internalID: -2422596516479658565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9c42d8dc0d817469dcd92b69e8e4e8
+      internalID: 928665330971898057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1408f8512905548a71557dd4717bfd
+      internalID: -1021136881015260118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9af968db8e5784fb67a3049ac10b79
+      internalID: 8000330250607751368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41419d9bd052b4f41a02e6d46546cef8
+      internalID: 1872467856822029361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951549a187ba19046b4c5425f7bbda44
+      internalID: -2072925373582766366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402120e9e3b98654da749c7b4bb98b05
+      internalID: 3935752444122905915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a98017b65645745b16e365b00ad944
+      internalID: 3147183776173327470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56371a1697672648ace12e7659611d9
+      internalID: -3469313227102209189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ae46192f35df4695c4e1b8114c75a
+      internalID: -4715018322438658662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_61
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa285b5bb44bd843bda154a271c543e
+      internalID: -1192753926056799372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d1d05ef5911524db3fd573627b6a2c
+      internalID: 1185359228047356901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472166cac9b083f408552a2563dc7356
+      internalID: -6879358064676768217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551be48a17b45e24dbbaaddd8742439d
+      internalID: -7547900184864182174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b736d5172f363489fcfa69657f1756
+      internalID: 7690091096745341256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5a851564cbce242811c0cd7dca12ac
+      internalID: 5715791214876927043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc51874ccb01c954c9a3b319a6e0ec99
+      internalID: -31210367669481040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3df7150e91a6f14b8b709bdc103764d
+      internalID: 6404255149073389842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274612738dc1a404d9cb4c7a3785c824
+      internalID: -2635919982610667340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd93addca0539843ba5d258f548d19e
+      internalID: 4208463357617465395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123cfd3f5dc59f4e9d621cb9e1c74a6
+      internalID: -3805446957385464213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1681a8b571dfaa94b897521a1a5991d1
+      internalID: -9162628774015078889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b512d55305f58bc46b54d8e16a1c1b75
+      internalID: 8762253158257875461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f317a082838d43b97eec94bcb9e10
+      internalID: -5883971570480349294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8fae654eb6a14ab095812af2da415
+      internalID: 6735966076429553133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82bc2e2172bb4f47b4c2a1edb69f1ac
+      internalID: -7927302651143227171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f19a162009dd5847850e4f5d605f1fc
+      internalID: -4124624263595630486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76e96f74eb6a14c8959c954449f461
+      internalID: 6709090132357986037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d216165f40de5624bbce8b0a3561aabe
+      internalID: 3786741359235199910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78338bb53aef5644fabf7b82c7f55792
+      internalID: 963333787184690443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1590e7f5c07e40a4c9247a09e92e71df
+      internalID: 4953966127271352837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5a7436392e13d4c9d5f65e3aaaa24b
+      internalID: 4467467136262549509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4870aba7711dd6b49a84e96fe182e004
+      internalID: 5534674966207355265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2137664387ac4b438e9ea04739349b4
+      internalID: 827656648721906652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d81de5e53620a649b9022d71999979d
+      internalID: 477504611179668225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010230a1aff1fb4479e9765123c515f3
+      internalID: -6217889379044728522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36447f6231bae7f40950be937e5f159b
+      internalID: 4576406819792140419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c397d451865893478582e692cc46700
+      internalID: -3385271466476688053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a61cf1696abd4948925d7275d2b4a9e
+      internalID: 8936122057567418437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955dbb5f407102a4babd804a3d85679f
+      internalID: -7207872513717929789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a949c86217849c40a7e204616de6434
+      internalID: 6802585893586638755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ce1fd28e948a640b83db72821b9001
+      internalID: 5423150399758481747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2abcfab87daf054bb8bec4f4ab6eef4
+      internalID: -2162835918847546852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef83dcc9e4bbe74ebf2e8dcebcce797
+      internalID: 2898986962492801168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab2ddc2ccd8055409315916fa0cfd84
+      internalID: 146077255967940768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842eef835b540cf479c45994c70db4b9
+      internalID: -6040958583429110407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256f6f579437bf34bb440d97c3078a95
+      internalID: 8120610645223295144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df07a6c3113a5940b5a708153c31bd6
+      internalID: -403909886877640789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377071e38ceffb4459f0235fb7bca878
+      internalID: 1111653014020431549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c55367b22b9ec44484c8d78e18466e0
+      internalID: 3247138174035967086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ac6545889bf07488b5114a26f65601
+      internalID: -1524626749952079685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce6d288d6a2ea54e9370fcdfa8ee6ed
+      internalID: 5767865977974371873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d6cc6e3b58a694a8ccf7e8c71297fa
+      internalID: 4079996425343651904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8770028a27f754286664101627670f
+      internalID: 2499011851623119794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f016db913a276459b73ce24a422941
+      internalID: -2471556021243990148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e454c2677c1d74080f50910a90a92b
+      internalID: -7409670439824453272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9f50c2a33cb5a43bbb4cd02e7bc02e
+      internalID: 4230199138637534036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606d47fe85eadd94eb97938e2f79d7a4
+      internalID: 4405154162948275449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d900f415b135b5e46a31474f6cd4db3b
+      internalID: 4477729177939076345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e158b94433a333c46a1c3f1b68a5b76f
+      internalID: -7541591399186237025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_111
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d186e07e1f4988e48994abfae7bf09e6
+      internalID: 979182121336559276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f7d7c288a3be542aa413f0f6f06e00
+      internalID: -3810212301589906342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8341580eac5e4eaf56d05658066df
+      internalID: 1708679995828705344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f096d919b650854aa1f3231c7cab162
+      internalID: -2416483370547122431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2540a777f54f88447b8b789e048d8acf
+      internalID: -4259185367322117218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3bdf2ceb0deef49a74b13aa8bb19fc
+      internalID: 2411835211430555595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa63c5eebd2a56439fc4d0bbbb54465
+      internalID: -5819996503219281223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba71178aae1b7841a420eb3cf76e3cd
+      internalID: 1809973148916296014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4b6178000314f4e90c78f7cccf087e
+      internalID: -9114818259523265162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1839da3bdd3a9424a8ad70a83b1faed7
+      internalID: 7989881016285741962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdca4d1d2dfa45248b847e8040a5ba46
+      internalID: -2016801002750395825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161dfd33808b9e5438fa77373e665bc0
+      internalID: 3840833050070755260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_123
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf196a96215cc714cab2a02322e2885f
+      internalID: 5468941098676303365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb573ca4ed5d44b43ab4f32b9f3ad27e
+      internalID: 5280923067742194194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3acf2a3d27574889cd605bf295805
+      internalID: 5526082593419525730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a10272b867de89498ee98d677a32d42
+      internalID: -5810057685072336104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c627e2d6f1c46448d1709547ca9a7b
+      internalID: -9136001516244626210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b27f4e176eaf3418ae8f1e1904028e
+      internalID: -1884729272036420387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11c083b83b871b43841633b7fe43546
+      internalID: -8391727392113379730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49484e1ddeaa045499fe7953b518b747
+      internalID: 1363874217732731171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0abebfa23f89844aecd6d51e446e71
+      internalID: 7562146802691542013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f4a9aecdf815a42b508ae82e31ba79
+      internalID: 4510300231711257236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b277cc2d11739547a0a77ab1fdd6177
+      internalID: -6480721560369114097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823de082dc81e8d489cea907bef5eed4
+      internalID: -7726321962431851489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929b6a0f30f97d74db671b40db5c38d2
+      internalID: 7373982595192663845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5166454c4802c0a4f896a94e8b0ad7e2
+      internalID: -8529818237757510531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771c39e8c6b645f48ba1fc3fc80b3d6e
+      internalID: -1831004258337165032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577017e4b63ac84681c3b3653cec874
+      internalID: -5252449815087404455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c0d9b253bd6eb43987921fe4ff8018
+      internalID: 6001983592184284067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2617bd9b97ceb1744a4f16d13c749ad7
+      internalID: 4273643541014124912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084fa7e0f29d790409da86bbd0278e03
+      internalID: 1116184520883574080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_142
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b156a77fe7689b94c8f123c05e5c3256
+      internalID: 3137163872888014641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29545ce285fb1843b65b2c5e121e747
+      internalID: 2281185619704048181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5802867f06b82b340809cfc19c468ccd
+      internalID: -2608411171592102797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8210cff5eddf86147a3d0729e412cb67
+      internalID: 2244364154758511311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a975ff33c4fddbe4d87f862bc3c12184
+      internalID: 3715219473192431996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb275e76501fea9409bf3efcc8fadd2c
+      internalID: 1555666148708718589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6701b2c57a4e4a817cc6171bc6f78
+      internalID: -1932647898696062052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33957a4568303f499017bd5534d582f
+      internalID: -7826438526450607533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445749dff86304349804287cc547dfe1
+      internalID: 1572945665385109857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f9f4d1e6c67844facc33777efa5686
+      internalID: 6573845042680764669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d90a8e23cbdb984d950d246eeaba5ce
+      internalID: -8139782404126588835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6709e0142fa96834ca27158fad5c7838
+      internalID: -9222665034105104904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96729b3d772a43247a32901a921103b1
+      internalID: -3319995129984632757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10562e80bcfba547a71d60b82d86784
+      internalID: 5289392576421446764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b124afbd010a58246a8f00d1a3d5ca1e
+      internalID: 2426574426353677385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d92ae3b4e69fc4d9d9b4dfef53f9c5
+      internalID: 4769245132274016359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_158
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40858a99f735e8d4ca0fe3dc2c790699
+      internalID: 924031567881408517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640a7505ff7896746b9d51d155497635
+      internalID: -2578846233974845916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55971ef2b2a878f4eb11ebd6e11d92a7
+      internalID: 6284308679773890191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a7752c2be5cf9489d928be1e6a3351
+      internalID: -2988547966705145872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc6b6b326727dd4d9ed0d6d41bafe5d
+      internalID: 2050943904072505377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c3d3827bae3d45895915cd810ea51
+      internalID: 551559166338192079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ea0952344ecb4b9228a53807955a9
+      internalID: 2952842294788389905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52469342438be724787079eb35d3a278
+      internalID: 6189370625324624831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489a91c05c8ba64d9af1162ca4517c3
+      internalID: -6854656912118064708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d76cc77fbc902479f9f632d833c41e
+      internalID: 1447330706466781149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dad30a0f568ef94c815f9abc34d6053
+      internalID: 7249424886645909401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_169
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57320ee83d780a548a700adb5dbca2d4
+      internalID: -8967599939384047622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_170
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b285b4d1a2e984e8415edfa3042c95
+      internalID: -4048457550106492982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_171
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0045f1c0c7df4cc4ca6917e3a7a958b0
+      internalID: 9131008255327042673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fef6e786b2d28e408d1d306b4b3c16c
+      internalID: -2128511430155390088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_173
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e769559e69c294db832da0b8784c9e
+      internalID: -703188502412198948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_174
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b020852e1d724f9ece50995239f03
+      internalID: -6370310675766744413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_175
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25de7329e04c3041b3a7432964b0ac3
+      internalID: 8055613460877295307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a59e782dbb71bf40befc92cebd5046a
+      internalID: -8286468983027318599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9bb9107c40e224fa7a6a648fff575b
+      internalID: 6842727186968962748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c0417637f4d504a9d914831591576d
+      internalID: -9040106187309305575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfbbf5d9051ee743a68ca9117205c6a
+      internalID: -8911446640005596771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed49fce12455af488d81e594273bd55
+      internalID: -7269941794505988101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7cfef610c258d41b703571deade0f3
+      internalID: -5251794308997584182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b05c8d0d3b456c4bb6798ac22dc25e3
+      internalID: -5637390847203293491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f648590bd99c404bb25a6bc384b919b
+      internalID: 1262445715691293536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b137dfb37c297b4e8d4a09e5d9b5791
+      internalID: 7199921795146839677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beef85f20cd50d4ebe7dda88e78729f
+      internalID: 920139064291144400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b0060245828c4d91893bc4555929f
+      internalID: -6369065248677628393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ade84f9dd6dbf94b89e8bbd298c2436
+      internalID: -6492977986349215305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b0e3fa76d42848bc9e07377eb589c
+      internalID: -4185558108051901804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda079ab4eb76646b3fc9b8f999839d
+      internalID: 6598812256454640880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_190
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20469cc7fc2f9bd4ab083cdd22f29d6e
+      internalID: 4926442745138622366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_191
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cae6ef6d3a444f45904aa8022d21913
+      internalID: -952825086880104839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a106002416d63b14c8b228ff242becb7
+      internalID: 6785767163200179182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fd1c6b46ba4e541ac01685fbe66da4
+      internalID: 8876865154148349222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d496c6be6873b44bb0b59248ce9373
+      internalID: -3825847427123823859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d8161b8a3d0fb4991591e45132600d
+      internalID: 3393708336443783633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e2429c15227ff4485019928162cb4c
+      internalID: 1753564184608419914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0e397ed81f8434596b7c3130c1c07a
+      internalID: 4989059032171849588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba4d33f2e4a026448b6a3e762e9358a
+      internalID: -1011237170623335918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9c2ef13b4c7d044938b4dd5e75fa7d
+      internalID: 6850310108717866995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaf1e4023fb62944a240501a2079428
+      internalID: -2811033749945490351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_201
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece7b0c45b84a824a93d816d88681b82
+      internalID: 4790677970592004723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_202
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5417c9f300c49d2469e3abe4a8102622
+      internalID: 8299097459025675348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_203
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80ac6ba1c0969840b06267fe24df126
+      internalID: 7121699443477139322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b277d256140a468ba02bf1e13559a
+      internalID: -8305857962156018580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_205
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e4306a6f209749b7e4b5c550c7641
+      internalID: 3142937492774667218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_206
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bc39c3bc6192f4dbcca6084ae941f4
+      internalID: -2256878183616548508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_207
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e449650bbd3ecc4db6b0b95f55bb5d9
+      internalID: 4808103076633597497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade9e6638d885f24cbdfa2de7357d126
+      internalID: 6826823612278019230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e390da29b40004397df3ab507720ff
+      internalID: -7075035651065071705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e08bb774e1de67429c739090e3a69cc
+      internalID: -7721502726065321296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780bd5ac7b4abec4499740fe2f8389ca
+      internalID: -2887096979676078573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a795e581c9bd3438da1d13b21356a2
+      internalID: 6792255901936645092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_213
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6905f0efb048df54da6815dc3c4424cb
+      internalID: 624293799167048969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0550ed7a72108c740b0b4b20ca5257c3
+      internalID: -1558067389032029027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b70656883bcc3e41a9968306e49094d
+      internalID: -7426106340952416400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12baffdd40e2444418216b07db49d203
+      internalID: -4984381008351331340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_217
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dec4867eab518a468a5b80bf0fa61b6
+      internalID: 6802490503551448992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e51d26c75493ca4cb6da29fc8702ac4
+      internalID: -6403824161947261038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_219
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdf7b7ff4ad9a34084ff90a4fb855bf
+      internalID: -6133603253786172470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_220
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20623bff2c87ae34ea88f48c074e4f12
+      internalID: 6933138234960290083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_221
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832913dbe357e6940bfeef5980a1f531
+      internalID: 8558562611895984186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_222
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d565e7e16394454987482927abf75b0
+      internalID: 1009733040345691201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_223
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885333be9d9683f498efaaedb9f60931
+      internalID: -4940680306159420774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bfbe964a31efb4482f5a8833ab7911
+      internalID: 574534659932319886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2ebb4944565a4581d9e0689ef8c8b
+      internalID: 5206376386680688600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e916f993433afbd4ba342a110658b143
+      internalID: 8032644199921733812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_227
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96555d7b5490d4945bf5a791b47cf38b
+      internalID: -7800391286588613248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c641573edf21647b74e9a977edf7bc
+      internalID: 6994505336819755253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_229
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bfe4be839d1f3439f690981c4ba56f
+      internalID: 1930518222498002679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_230
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01178b95ed820347b54bcda94b738d2
+      internalID: -1402509822443548092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_231
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05c53cc5a875cb4bad896a0af250498
+      internalID: 6836338529772675615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e828b5f363c50469168a20603d9d88
+      internalID: -1922942370846658790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_233
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dbadc51e1514e4b8f51cabe825f15c
+      internalID: -9183711026859911938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c32579680d7c4a8e403f26571c117
+      internalID: 1354943915311325514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_235
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44710ab3392e95643b8e9ae469005d28
+      internalID: 6009451010948308842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_236
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88bf633feeaff3418f99c781d6ce2b2
+      internalID: 8697795883579939949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_237
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81913091dd9ae441b6337b5a93a78b4
+      internalID: 7568426252587225760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_238
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a2547dddf5e3042accfd157e52bb40
+      internalID: -1970124788213149936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_239
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81022d47a51191745b0578b06abe467f
+      internalID: -3915310603174915690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df20ef0180848044a9e820674b2935d
+      internalID: 5021821019417064822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe9436c1676d74c94f58e8bb1cf048
+      internalID: -2390023523375667233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbf0c62102bc5e408f9f46677f9edaf
+      internalID: -4861128891998030242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8068915ba29d2be4ea766ad9e351f9a4
+      internalID: -5781036205860708439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf9ba74eb32319459af105a88e7956b
+      internalID: -3980193943035742165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_245
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b1890d8d6ec34a858047c1809562a
+      internalID: -1802020750482213975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e81fd191d4411648866705cf4567314
+      internalID: 8818747711138545197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eb2a07e78a3494d90a4065dd694cd9
+      internalID: 4660825016512806508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba6eddd054371b4891f1bcfa1fa3d88
+      internalID: -4931109816674517599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_249
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7bac4451b57e4f91db466831cb172
+      internalID: -5126372677528720292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_250
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039bd55a49704d248a675393fc1be64d
+      internalID: -5380712221094516813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_251
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade34511ea9552e498e17ff870c5e922
+      internalID: 1437826494221422471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_252
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff211d32d2b7099458354846cb29b14c
+      internalID: -3572176326287539939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e581287bddeb5d247965379a5fb070cb
+      internalID: -3819776723978129835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_254
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9eb7dcf673e9b459497811b70c572d
+      internalID: -849698064575614681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-InnerTown_255
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f36a5ed12e12d44b6e430f7e21cc4b
+      internalID: -1605118476630543559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TileE-InnerTown_123: 5468941098676303365
+      TileE-InnerTown_115: -4259185367322117218
+      TileE-InnerTown_234: 1354943915311325514
+      TileE-InnerTown_77: -4124624263595630486
+      TileE-InnerTown_145: 2244364154758511311
+      TileE-InnerTown_170: -4048457550106492982
+      TileE-InnerTown_194: -3825847427123823859
+      TileE-InnerTown_136: -8529818237757510531
+      TileE-InnerTown_140: 4273643541014124912
+      TileE-InnerTown_53: -1021136881015260118
+      TileE-InnerTown_98: -403909886877640789
+      TileE-InnerTown_19: 7183840985105573218
+      TileE-InnerTown_192: 6785767163200179182
+      TileE-InnerTown_88: -3385271466476688053
+      TileE-InnerTown_174: -6370310675766744413
+      TileE-InnerTown_164: 2952842294788389905
+      TileE-InnerTown_50: -8137962405276456155
+      TileE-InnerTown_152: -8139782404126588835
+      TileE-InnerTown_167: 1447330706466781149
+      TileE-InnerTown_26: 528663438622641630
+      TileE-InnerTown_241: -2390023523375667233
+      TileE-InnerTown_117: -5819996503219281223
+      TileE-InnerTown_33: 1404587187459534305
+      TileE-InnerTown_238: -1970124788213149936
+      TileE-InnerTown_78: 6709090132357986037
+      TileE-InnerTown_8: 5689028118835849505
+      TileE-InnerTown_176: -8286468983027318599
+      TileE-InnerTown_30: 6020408801834332198
+      TileE-InnerTown_31: -4659971287527559980
+      TileE-InnerTown_128: -1884729272036420387
+      TileE-InnerTown_116: 2411835211430555595
+      TileE-InnerTown_73: 8762253158257875461
+      TileE-InnerTown_18: -3409810860484566521
+      TileE-InnerTown_142: 3137163872888014641
+      TileE-InnerTown_93: -2162835918847546852
+      TileE-InnerTown_153: -9222665034105104904
+      TileE-InnerTown_146: 3715219473192431996
+      TileE-InnerTown_183: 1262445715691293536
+      TileE-InnerTown_69: -2635919982610667340
+      TileE-InnerTown_2: 8279495829549429593
+      TileE-InnerTown_37: 6429665768640100283
+      TileE-InnerTown_155: 5289392576421446764
+      TileE-InnerTown_72: -9162628774015078889
+      TileE-InnerTown_225: 5206376386680688600
+      TileE-InnerTown_165: 6189370625324624831
+      TileE-InnerTown_195: 3393708336443783633
+      TileE-InnerTown_103: 4079996425343651904
+      TileE-InnerTown_110: -7541591399186237025
+      TileE-InnerTown_216: -4984381008351331340
+      TileE-InnerTown_119: -9114818259523265162
+      TileE-InnerTown_215: -7426106340952416400
+      TileE-InnerTown_67: -31210367669481040
+      TileE-InnerTown_89: 8936122057567418437
+      TileE-InnerTown_35: 8950961510674429408
+      TileE-InnerTown_95: 146077255967940768
+      TileE-InnerTown_197: 4989059032171849588
+      TileE-InnerTown_94: 2898986962492801168
+      TileE-InnerTown_64: -7547900184864182174
+      TileE-InnerTown_111: 979182121336559276
+      TileE-InnerTown_22: 2756429276215076469
+      TileE-InnerTown_65: 7690091096745341256
+      TileE-InnerTown_147: 1555666148708718589
+      TileE-InnerTown_162: 2050943904072505377
+      TileE-InnerTown_63: -6879358064676768217
+      TileE-InnerTown_177: 6842727186968962748
+      TileE-InnerTown_220: 6933138234960290083
+      TileE-InnerTown_10: -3169907124038499149
+      TileE-InnerTown_211: -2887096979676078573
+      TileE-InnerTown_217: 6802490503551448992
+      TileE-InnerTown_76: -7927302651143227171
+      TileE-InnerTown_70: 4208463357617465395
+      TileE-InnerTown_80: 963333787184690443
+      TileE-InnerTown_32: 2485319578114923869
+      TileE-InnerTown_148: -1932647898696062052
+      TileE-InnerTown_249: -5126372677528720292
+      TileE-InnerTown_226: 8032644199921733812
+      TileE-InnerTown_24: -5426280680354965146
+      TileE-InnerTown_255: -1605118476630543559
+      TileE-InnerTown_236: 8697795883579939949
+      TileE-InnerTown_23: -9197644373851934300
+      TileE-InnerTown_178: -9040106187309305575
+      TileE-InnerTown_149: -7826438526450607533
+      TileE-InnerTown_96: -6040958583429110407
+      TileE-InnerTown_109: 4477729177939076345
+      TileE-InnerTown_199: 6850310108717866995
+      TileE-InnerTown_204: -8305857962156018580
+      TileE-InnerTown_17: 2120592963731459470
+      TileE-InnerTown_169: -8967599939384047622
+      TileE-InnerTown_107: 4230199138637534036
+      TileE-InnerTown_34: 4387522486257565377
+      TileE-InnerTown_246: 8818747711138545197
+      TileE-InnerTown_143: 2281185619704048181
+      TileE-InnerTown_85: 477504611179668225
+      TileE-InnerTown_71: -3805446957385464213
+      TileE-InnerTown_250: -5380712221094516813
+      TileE-InnerTown_239: -3915310603174915690
+      TileE-InnerTown_154: -3319995129984632757
+      TileE-InnerTown_210: -7721502726065321296
+      TileE-InnerTown_91: 6802585893586638755
+      TileE-InnerTown_254: -849698064575614681
+      TileE-InnerTown_124: 5280923067742194194
+      TileE-InnerTown_126: -5810057685072336104
+      TileE-InnerTown_81: 4953966127271352837
+      TileE-InnerTown_47: 2434119729444980098
+      TileE-InnerTown_120: 7989881016285741962
+      TileE-InnerTown_99: 1111653014020431549
+      TileE-InnerTown_118: 1809973148916296014
+      TileE-InnerTown_150: 1572945665385109857
+      TileE-InnerTown_41: -3190131588511483525
+      TileE-InnerTown_61: -1192753926056799372
+      TileE-InnerTown_158: 924031567881408517
+      TileE-InnerTown_223: -4940680306159420774
+      TileE-InnerTown_129: -8391727392113379730
+      TileE-InnerTown_188: -4185558108051901804
+      TileE-InnerTown_240: 5021821019417064822
+      TileE-InnerTown_247: 4660825016512806508
+      TileE-InnerTown_235: 6009451010948308842
+      TileE-InnerTown_25: 2867927804845258175
+      TileE-InnerTown_39: -4298551640724796148
+      TileE-InnerTown_7: 6491334820268639023
+      TileE-InnerTown_187: -6492977986349215305
+      TileE-InnerTown_230: -1402509822443548092
+      TileE-InnerTown_101: -1524626749952079685
+      TileE-InnerTown_168: 7249424886645909401
+      TileE-InnerTown_1: -6070865425278205191
+      TileE-InnerTown_122: 3840833050070755260
+      TileE-InnerTown_135: 7373982595192663845
+      TileE-InnerTown_46: 4646924471422344594
+      TileE-InnerTown_127: -9136001516244626210
+      TileE-InnerTown_125: 5526082593419525730
+      TileE-InnerTown_231: 6836338529772675615
+      TileE-InnerTown_75: 6735966076429553133
+      TileE-InnerTown_102: 5767865977974371873
+      TileE-InnerTown_48: 9148840485747311814
+      TileE-InnerTown_175: 8055613460877295307
+      TileE-InnerTown_186: -6369065248677628393
+      TileE-InnerTown_219: -6133603253786172470
+      TileE-InnerTown_248: -4931109816674517599
+      TileE-InnerTown_163: 551559166338192079
+      TileE-InnerTown_66: 5715791214876927043
+      TileE-InnerTown_15: 5797480786913905566
+      TileE-InnerTown_156: 2426574426353677385
+      TileE-InnerTown_232: -1922942370846658790
+      TileE-InnerTown_208: 6826823612278019230
+      TileE-InnerTown_29: 2377801216696843843
+      TileE-InnerTown_139: 6001983592184284067
+      TileE-InnerTown_151: 6573845042680764669
+      TileE-InnerTown_82: 4467467136262549509
+      TileE-InnerTown_200: -2811033749945490351
+      TileE-InnerTown_171: 9131008255327042673
+      TileE-InnerTown_74: -5883971570480349294
+      TileE-InnerTown_173: -703188502412198948
+      TileE-InnerTown_62: 1185359228047356901
+      TileE-InnerTown_161: -2988547966705145872
+      TileE-InnerTown_184: 7199921795146839677
+      TileE-InnerTown_21: -9149282405890359623
+      TileE-InnerTown_38: -6638172346520493568
+      TileE-InnerTown_0: -2671690548795141103
+      TileE-InnerTown_113: 1708679995828705344
+      TileE-InnerTown_27: -6606422489942514739
+      TileE-InnerTown_180: -7269941794505988101
+      TileE-InnerTown_57: 3935752444122905915
+      TileE-InnerTown_206: -2256878183616548508
+      TileE-InnerTown_182: -5637390847203293491
+      TileE-InnerTown_198: -1011237170623335918
+      TileE-InnerTown_212: 6792255901936645092
+      TileE-InnerTown_243: -5781036205860708439
+      TileE-InnerTown_20: 3769758043728557122
+      TileE-InnerTown_237: 7568426252587225760
+      TileE-InnerTown_44: 3433171535900269256
+      TileE-InnerTown_222: 1009733040345691201
+      TileE-InnerTown_172: -2128511430155390088
+      TileE-InnerTown_251: 1437826494221422471
+      TileE-InnerTown_159: -2578846233974845916
+      TileE-InnerTown_54: 8000330250607751368
+      TileE-InnerTown_221: 8558562611895984186
+      TileE-InnerTown_214: -1558067389032029027
+      TileE-InnerTown_201: 4790677970592004723
+      TileE-InnerTown_14: 6467869758944763678
+      TileE-InnerTown_3: -2483610767358600085
+      TileE-InnerTown_4: 6550127131444529564
+      TileE-InnerTown_56: -2072925373582766366
+      TileE-InnerTown_141: 1116184520883574080
+      TileE-InnerTown_218: -6403824161947261038
+      TileE-InnerTown_137: -1831004258337165032
+      TileE-InnerTown_106: -7409670439824453272
+      TileE-InnerTown_121: -2016801002750395825
+      TileE-InnerTown_179: -8911446640005596771
+      TileE-InnerTown_49: 3055710114982231683
+      TileE-InnerTown_112: -3810212301589906342
+      TileE-InnerTown_13: 3745396562597730476
+      TileE-InnerTown_9: -1162649230498518076
+      TileE-InnerTown_160: 6284308679773890191
+      TileE-InnerTown_185: 920139064291144400
+      TileE-InnerTown_104: 2499011851623119794
+      TileE-InnerTown_205: 3142937492774667218
+      TileE-InnerTown_134: -7726321962431851489
+      TileE-InnerTown_11: 4030166170588107356
+      TileE-InnerTown_87: 4576406819792140419
+      TileE-InnerTown_60: -4715018322438658662
+      TileE-InnerTown_97: 8120610645223295144
+      TileE-InnerTown_36: -6932519381002478826
+      TileE-InnerTown_5: 752191309016342048
+      TileE-InnerTown_6: 7652521797315578629
+      TileE-InnerTown_229: 1930518222498002679
+      TileE-InnerTown_59: -3469313227102209189
+      TileE-InnerTown_228: 6994505336819755253
+      TileE-InnerTown_92: 5423150399758481747
+      TileE-InnerTown_157: 4769245132274016359
+      TileE-InnerTown_181: -5251794308997584182
+      TileE-InnerTown_166: -6854656912118064708
+      TileE-InnerTown_86: -6217889379044728522
+      TileE-InnerTown_193: 8876865154148349222
+      TileE-InnerTown_52: 928665330971898057
+      TileE-InnerTown_108: 4405154162948275449
+      TileE-InnerTown_190: 4926442745138622366
+      TileE-InnerTown_213: 624293799167048969
+      TileE-InnerTown_189: 6598812256454640880
+      TileE-InnerTown_131: 7562146802691542013
+      TileE-InnerTown_43: -3148681356808349944
+      TileE-InnerTown_55: 1872467856822029361
+      TileE-InnerTown_196: 1753564184608419914
+      TileE-InnerTown_130: 1363874217732731171
+      TileE-InnerTown_133: -6480721560369114097
+      TileE-InnerTown_244: -3980193943035742165
+      TileE-InnerTown_12: -8432428615353392769
+      TileE-InnerTown_191: -952825086880104839
+      TileE-InnerTown_40: 964093730106305100
+      TileE-InnerTown_100: 3247138174035967086
+      TileE-InnerTown_209: -7075035651065071705
+      TileE-InnerTown_202: 8299097459025675348
+      TileE-InnerTown_227: -7800391286588613248
+      TileE-InnerTown_51: -2422596516479658565
+      TileE-InnerTown_83: 5534674966207355265
+      TileE-InnerTown_253: -3819776723978129835
+      TileE-InnerTown_90: -7207872513717929789
+      TileE-InnerTown_132: 4510300231711257236
+      TileE-InnerTown_105: -2471556021243990148
+      TileE-InnerTown_68: 6404255149073389842
+      TileE-InnerTown_45: -5059231773891343430
+      TileE-InnerTown_42: 9098352772983389120
+      TileE-InnerTown_203: 7121699443477139322
+      TileE-InnerTown_28: 8171965916778120996
+      TileE-InnerTown_138: -5252449815087404455
+      TileE-InnerTown_84: 827656648721906652
+      TileE-InnerTown_58: 3147183776173327470
+      TileE-InnerTown_144: -2608411171592102797
+      TileE-InnerTown_207: 4808103076633597497
+      TileE-InnerTown_233: -9183711026859911938
+      TileE-InnerTown_79: 3786741359235199910
+      TileE-InnerTown_252: -3572176326287539939
+      TileE-InnerTown_245: -1802020750482213975
+      TileE-InnerTown_16: 6199849904289715284
+      TileE-InnerTown_242: -4861128891998030242
+      TileE-InnerTown_224: 574534659932319886
+      TileE-InnerTown_114: -2416483370547122431
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

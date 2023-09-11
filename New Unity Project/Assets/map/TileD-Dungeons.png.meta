@@ -1,0 +1,6536 @@
+fileFormatVersion: 2
+guid: 5a87229b25704954c8279d6e492ceff8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7888768406805299048
+    second: TileD-Dungeons_0
+  - first:
+      213: -4297884573948383089
+    second: TileD-Dungeons_1
+  - first:
+      213: -5988546823108429116
+    second: TileD-Dungeons_2
+  - first:
+      213: 8413990198223742948
+    second: TileD-Dungeons_3
+  - first:
+      213: -6438069775781835135
+    second: TileD-Dungeons_4
+  - first:
+      213: -5539307073600179964
+    second: TileD-Dungeons_5
+  - first:
+      213: -1704942937940915089
+    second: TileD-Dungeons_6
+  - first:
+      213: 3631832410227631065
+    second: TileD-Dungeons_7
+  - first:
+      213: 5673530772026313544
+    second: TileD-Dungeons_8
+  - first:
+      213: 2896478658069311222
+    second: TileD-Dungeons_9
+  - first:
+      213: 3756710412049273229
+    second: TileD-Dungeons_10
+  - first:
+      213: 6602081067357223313
+    second: TileD-Dungeons_11
+  - first:
+      213: 852884723642180380
+    second: TileD-Dungeons_12
+  - first:
+      213: -6330393430300753530
+    second: TileD-Dungeons_13
+  - first:
+      213: -7003015254110581988
+    second: TileD-Dungeons_14
+  - first:
+      213: 4845731601364451804
+    second: TileD-Dungeons_15
+  - first:
+      213: -3352007433949159936
+    second: TileD-Dungeons_16
+  - first:
+      213: -4048515678303414627
+    second: TileD-Dungeons_17
+  - first:
+      213: 5153780293160150170
+    second: TileD-Dungeons_18
+  - first:
+      213: -3028836946577991168
+    second: TileD-Dungeons_19
+  - first:
+      213: -6588095748319565024
+    second: TileD-Dungeons_20
+  - first:
+      213: -4743725651204360164
+    second: TileD-Dungeons_21
+  - first:
+      213: -3335783459704266329
+    second: TileD-Dungeons_22
+  - first:
+      213: -475256176097721365
+    second: TileD-Dungeons_23
+  - first:
+      213: 2586449899792152909
+    second: TileD-Dungeons_24
+  - first:
+      213: -5753045417000388311
+    second: TileD-Dungeons_25
+  - first:
+      213: -5126402975727534502
+    second: TileD-Dungeons_26
+  - first:
+      213: -7517671320498508393
+    second: TileD-Dungeons_27
+  - first:
+      213: 7878533811941831437
+    second: TileD-Dungeons_28
+  - first:
+      213: 503297610169280820
+    second: TileD-Dungeons_29
+  - first:
+      213: -6120122987482761905
+    second: TileD-Dungeons_30
+  - first:
+      213: 8410701886617299079
+    second: TileD-Dungeons_31
+  - first:
+      213: -155272880706165161
+    second: TileD-Dungeons_32
+  - first:
+      213: 2442904088489806280
+    second: TileD-Dungeons_33
+  - first:
+      213: 3699852418791321251
+    second: TileD-Dungeons_34
+  - first:
+      213: -1288430227700555995
+    second: TileD-Dungeons_35
+  - first:
+      213: -7587855706633713372
+    second: TileD-Dungeons_36
+  - first:
+      213: 580593347853979243
+    second: TileD-Dungeons_37
+  - first:
+      213: 8689228657895530878
+    second: TileD-Dungeons_38
+  - first:
+      213: -4267214824919283414
+    second: TileD-Dungeons_39
+  - first:
+      213: -8978303442050648472
+    second: TileD-Dungeons_40
+  - first:
+      213: 7385591330315298001
+    second: TileD-Dungeons_41
+  - first:
+      213: 2272464526214713639
+    second: TileD-Dungeons_42
+  - first:
+      213: -8866265526112452556
+    second: TileD-Dungeons_43
+  - first:
+      213: -7015515888729322060
+    second: TileD-Dungeons_44
+  - first:
+      213: -5509489928318766106
+    second: TileD-Dungeons_45
+  - first:
+      213: 7196826482765354260
+    second: TileD-Dungeons_46
+  - first:
+      213: 7380036100317882540
+    second: TileD-Dungeons_47
+  - first:
+      213: -8761883044926452210
+    second: TileD-Dungeons_48
+  - first:
+      213: -3685242298747611902
+    second: TileD-Dungeons_49
+  - first:
+      213: -2884039271427162643
+    second: TileD-Dungeons_50
+  - first:
+      213: 5992712785770365032
+    second: TileD-Dungeons_51
+  - first:
+      213: -307826807854018137
+    second: TileD-Dungeons_52
+  - first:
+      213: 256227290078486172
+    second: TileD-Dungeons_53
+  - first:
+      213: 728461449767761931
+    second: TileD-Dungeons_54
+  - first:
+      213: 983826524743862361
+    second: TileD-Dungeons_55
+  - first:
+      213: 8563164301572424114
+    second: TileD-Dungeons_56
+  - first:
+      213: 8657069946878938218
+    second: TileD-Dungeons_57
+  - first:
+      213: -5608614601229900793
+    second: TileD-Dungeons_58
+  - first:
+      213: 5372700998603861758
+    second: TileD-Dungeons_59
+  - first:
+      213: 6841480392860916866
+    second: TileD-Dungeons_60
+  - first:
+      213: 4046678046479096390
+    second: TileD-Dungeons_61
+  - first:
+      213: -3274105461926084814
+    second: TileD-Dungeons_62
+  - first:
+      213: -1362812809220635153
+    second: TileD-Dungeons_63
+  - first:
+      213: -6529175505818939478
+    second: TileD-Dungeons_64
+  - first:
+      213: -6505005631693043833
+    second: TileD-Dungeons_65
+  - first:
+      213: 7211658805998906986
+    second: TileD-Dungeons_66
+  - first:
+      213: 6385550222932567377
+    second: TileD-Dungeons_67
+  - first:
+      213: 2144402385616427143
+    second: TileD-Dungeons_68
+  - first:
+      213: 2480685258605652945
+    second: TileD-Dungeons_69
+  - first:
+      213: 7398176125012130459
+    second: TileD-Dungeons_70
+  - first:
+      213: -7555079368734393431
+    second: TileD-Dungeons_71
+  - first:
+      213: -600666179000823324
+    second: TileD-Dungeons_72
+  - first:
+      213: -2150984938344088406
+    second: TileD-Dungeons_73
+  - first:
+      213: 2792460435411277719
+    second: TileD-Dungeons_74
+  - first:
+      213: -314066666255738611
+    second: TileD-Dungeons_75
+  - first:
+      213: -5505849791621458489
+    second: TileD-Dungeons_76
+  - first:
+      213: -2628931658128430726
+    second: TileD-Dungeons_77
+  - first:
+      213: 7433404294403369910
+    second: TileD-Dungeons_78
+  - first:
+      213: 8979117685487394387
+    second: TileD-Dungeons_79
+  - first:
+      213: -8200489331301687817
+    second: TileD-Dungeons_80
+  - first:
+      213: 4570462867932564549
+    second: TileD-Dungeons_81
+  - first:
+      213: -7500649265759203995
+    second: TileD-Dungeons_82
+  - first:
+      213: -7852769482614115180
+    second: TileD-Dungeons_83
+  - first:
+      213: 2324337853638797218
+    second: TileD-Dungeons_84
+  - first:
+      213: 7639166032148231286
+    second: TileD-Dungeons_85
+  - first:
+      213: 2595220971070497121
+    second: TileD-Dungeons_86
+  - first:
+      213: 1975602559133200701
+    second: TileD-Dungeons_87
+  - first:
+      213: -3212219668568887662
+    second: TileD-Dungeons_88
+  - first:
+      213: 7819468857284647206
+    second: TileD-Dungeons_89
+  - first:
+      213: 5415333618734276549
+    second: TileD-Dungeons_90
+  - first:
+      213: 590595020718837231
+    second: TileD-Dungeons_91
+  - first:
+      213: -3411435710929135433
+    second: TileD-Dungeons_92
+  - first:
+      213: -6647893811642497184
+    second: TileD-Dungeons_93
+  - first:
+      213: -3682932913048945798
+    second: TileD-Dungeons_94
+  - first:
+      213: -2215712285082075849
+    second: TileD-Dungeons_95
+  - first:
+      213: 5844201829016169362
+    second: TileD-Dungeons_96
+  - first:
+      213: 6740966511254596017
+    second: TileD-Dungeons_97
+  - first:
+      213: 4122337117360536620
+    second: TileD-Dungeons_98
+  - first:
+      213: -1703580768560751221
+    second: TileD-Dungeons_99
+  - first:
+      213: 523747197956620505
+    second: TileD-Dungeons_100
+  - first:
+      213: -7726314412868541143
+    second: TileD-Dungeons_101
+  - first:
+      213: 1373393618938534695
+    second: TileD-Dungeons_102
+  - first:
+      213: 2850519643509695965
+    second: TileD-Dungeons_103
+  - first:
+      213: 6690048960545334644
+    second: TileD-Dungeons_104
+  - first:
+      213: 3879765784385415012
+    second: TileD-Dungeons_105
+  - first:
+      213: -9025296451495531945
+    second: TileD-Dungeons_106
+  - first:
+      213: -5346883089973958823
+    second: TileD-Dungeons_107
+  - first:
+      213: -3873867711715590650
+    second: TileD-Dungeons_108
+  - first:
+      213: -4794614372485249732
+    second: TileD-Dungeons_109
+  - first:
+      213: -235514771379084709
+    second: TileD-Dungeons_110
+  - first:
+      213: 4233796234110043144
+    second: TileD-Dungeons_111
+  - first:
+      213: -182365392712136756
+    second: TileD-Dungeons_112
+  - first:
+      213: 2935695518806210713
+    second: TileD-Dungeons_113
+  - first:
+      213: -8319138509941490476
+    second: TileD-Dungeons_114
+  - first:
+      213: -7709254164491209194
+    second: TileD-Dungeons_115
+  - first:
+      213: -6527430749623516763
+    second: TileD-Dungeons_116
+  - first:
+      213: -8661250467655663653
+    second: TileD-Dungeons_117
+  - first:
+      213: -2909186592526342003
+    second: TileD-Dungeons_118
+  - first:
+      213: 7661436858078082641
+    second: TileD-Dungeons_119
+  - first:
+      213: -5366566118651448015
+    second: TileD-Dungeons_120
+  - first:
+      213: -2500934560307178096
+    second: TileD-Dungeons_121
+  - first:
+      213: 1795003251879440540
+    second: TileD-Dungeons_122
+  - first:
+      213: 9208770548506373428
+    second: TileD-Dungeons_123
+  - first:
+      213: 1557996328491127807
+    second: TileD-Dungeons_124
+  - first:
+      213: 7878414573662898103
+    second: TileD-Dungeons_125
+  - first:
+      213: -5502061438341982814
+    second: TileD-Dungeons_126
+  - first:
+      213: 7448609219070227646
+    second: TileD-Dungeons_127
+  - first:
+      213: 6042001388210853521
+    second: TileD-Dungeons_128
+  - first:
+      213: 362005265635560898
+    second: TileD-Dungeons_129
+  - first:
+      213: -894470733647095532
+    second: TileD-Dungeons_130
+  - first:
+      213: 392695223347333290
+    second: TileD-Dungeons_131
+  - first:
+      213: -1931733519261190993
+    second: TileD-Dungeons_132
+  - first:
+      213: -2195197716324566974
+    second: TileD-Dungeons_133
+  - first:
+      213: -4059305321170654706
+    second: TileD-Dungeons_134
+  - first:
+      213: -6200270032298383647
+    second: TileD-Dungeons_135
+  - first:
+      213: -3217612388887066493
+    second: TileD-Dungeons_136
+  - first:
+      213: -4724860873106563427
+    second: TileD-Dungeons_137
+  - first:
+      213: 5777926830275065936
+    second: TileD-Dungeons_138
+  - first:
+      213: 8911598267930412204
+    second: TileD-Dungeons_139
+  - first:
+      213: -206124758357902412
+    second: TileD-Dungeons_140
+  - first:
+      213: -7213795625349461443
+    second: TileD-Dungeons_141
+  - first:
+      213: 8019504544168767759
+    second: TileD-Dungeons_142
+  - first:
+      213: -1090001057141250872
+    second: TileD-Dungeons_143
+  - first:
+      213: -6669055592737714037
+    second: TileD-Dungeons_144
+  - first:
+      213: 1858968709646009471
+    second: TileD-Dungeons_145
+  - first:
+      213: -8734204989119472019
+    second: TileD-Dungeons_146
+  - first:
+      213: -5946408901643651955
+    second: TileD-Dungeons_147
+  - first:
+      213: 8928805808338662715
+    second: TileD-Dungeons_148
+  - first:
+      213: -7485360945548397162
+    second: TileD-Dungeons_149
+  - first:
+      213: 6609245729956688945
+    second: TileD-Dungeons_150
+  - first:
+      213: -3834673814209210700
+    second: TileD-Dungeons_151
+  - first:
+      213: -4408642692830582355
+    second: TileD-Dungeons_152
+  - first:
+      213: -6993693745957869734
+    second: TileD-Dungeons_153
+  - first:
+      213: -7958110824066922690
+    second: TileD-Dungeons_154
+  - first:
+      213: -322356888092697834
+    second: TileD-Dungeons_155
+  - first:
+      213: -6452925334376120421
+    second: TileD-Dungeons_156
+  - first:
+      213: -7434422412235050272
+    second: TileD-Dungeons_157
+  - first:
+      213: 3579208201596168164
+    second: TileD-Dungeons_158
+  - first:
+      213: -3299622906197310936
+    second: TileD-Dungeons_159
+  - first:
+      213: 8714518432419130917
+    second: TileD-Dungeons_160
+  - first:
+      213: 7667072611330810177
+    second: TileD-Dungeons_161
+  - first:
+      213: -5576574636625168537
+    second: TileD-Dungeons_162
+  - first:
+      213: 6606892621881299845
+    second: TileD-Dungeons_163
+  - first:
+      213: -4197912050152635748
+    second: TileD-Dungeons_164
+  - first:
+      213: -334107302518163400
+    second: TileD-Dungeons_165
+  - first:
+      213: -1437927906153580656
+    second: TileD-Dungeons_166
+  - first:
+      213: -3370866399166493560
+    second: TileD-Dungeons_167
+  - first:
+      213: -6941555298380383607
+    second: TileD-Dungeons_168
+  - first:
+      213: 8002472859658339627
+    second: TileD-Dungeons_169
+  - first:
+      213: -5730305889159739895
+    second: TileD-Dungeons_170
+  - first:
+      213: 3281316864997137129
+    second: TileD-Dungeons_171
+  - first:
+      213: 3669037336575181248
+    second: TileD-Dungeons_172
+  - first:
+      213: -9181138774840345463
+    second: TileD-Dungeons_173
+  - first:
+      213: -7998632225870836230
+    second: TileD-Dungeons_174
+  - first:
+      213: 8969725208030504984
+    second: TileD-Dungeons_175
+  - first:
+      213: -4387388308899870318
+    second: TileD-Dungeons_176
+  - first:
+      213: -5709905747255611203
+    second: TileD-Dungeons_177
+  - first:
+      213: 9065108314860834473
+    second: TileD-Dungeons_178
+  - first:
+      213: -7097699209438159436
+    second: TileD-Dungeons_179
+  - first:
+      213: -769104355834950614
+    second: TileD-Dungeons_180
+  - first:
+      213: 8820710393632100582
+    second: TileD-Dungeons_181
+  - first:
+      213: -6806651338781982567
+    second: TileD-Dungeons_182
+  - first:
+      213: -8604964330402952734
+    second: TileD-Dungeons_183
+  - first:
+      213: -3860330524064974621
+    second: TileD-Dungeons_184
+  - first:
+      213: -8868502809334314272
+    second: TileD-Dungeons_185
+  - first:
+      213: 2040614286975455693
+    second: TileD-Dungeons_186
+  - first:
+      213: -1672999559027706012
+    second: TileD-Dungeons_187
+  - first:
+      213: -3975279039520268255
+    second: TileD-Dungeons_188
+  - first:
+      213: -1702775595513509267
+    second: TileD-Dungeons_189
+  - first:
+      213: 689867081407978090
+    second: TileD-Dungeons_190
+  - first:
+      213: -2438961129643048576
+    second: TileD-Dungeons_191
+  - first:
+      213: -3144188426850971906
+    second: TileD-Dungeons_192
+  - first:
+      213: 4561216741885583620
+    second: TileD-Dungeons_193
+  - first:
+      213: 4966876932688566413
+    second: TileD-Dungeons_194
+  - first:
+      213: -7777940493373167725
+    second: TileD-Dungeons_195
+  - first:
+      213: -6045441330201515738
+    second: TileD-Dungeons_196
+  - first:
+      213: -2708160216569522049
+    second: TileD-Dungeons_197
+  - first:
+      213: -4051557100652254470
+    second: TileD-Dungeons_198
+  - first:
+      213: 1639466442676143144
+    second: TileD-Dungeons_199
+  - first:
+      213: -1856396919156011738
+    second: TileD-Dungeons_200
+  - first:
+      213: 1999331497433067701
+    second: TileD-Dungeons_201
+  - first:
+      213: 3904719479394159942
+    second: TileD-Dungeons_202
+  - first:
+      213: -773581017858743597
+    second: TileD-Dungeons_203
+  - first:
+      213: -2658315625380242457
+    second: TileD-Dungeons_204
+  - first:
+      213: -1070144871506182936
+    second: TileD-Dungeons_205
+  - first:
+      213: -2067299304605240894
+    second: TileD-Dungeons_206
+  - first:
+      213: -7872257233404365177
+    second: TileD-Dungeons_207
+  - first:
+      213: 2219245349910997079
+    second: TileD-Dungeons_208
+  - first:
+      213: 2583324987328078972
+    second: TileD-Dungeons_209
+  - first:
+      213: -3546657332302390276
+    second: TileD-Dungeons_210
+  - first:
+      213: -2867323687774229831
+    second: TileD-Dungeons_211
+  - first:
+      213: -7638470720188808616
+    second: TileD-Dungeons_212
+  - first:
+      213: 6152690415033491818
+    second: TileD-Dungeons_213
+  - first:
+      213: 8310342527899803824
+    second: TileD-Dungeons_214
+  - first:
+      213: -4836954606274486317
+    second: TileD-Dungeons_215
+  - first:
+      213: 8125713394135161623
+    second: TileD-Dungeons_216
+  - first:
+      213: -6373729594560807213
+    second: TileD-Dungeons_217
+  - first:
+      213: 440183841277497584
+    second: TileD-Dungeons_218
+  - first:
+      213: -5889132118651365919
+    second: TileD-Dungeons_219
+  - first:
+      213: 8845314568021195298
+    second: TileD-Dungeons_220
+  - first:
+      213: 4241513288723062144
+    second: TileD-Dungeons_221
+  - first:
+      213: 5076196072187993764
+    second: TileD-Dungeons_222
+  - first:
+      213: 5928077906789928674
+    second: TileD-Dungeons_223
+  - first:
+      213: 8634094841380079745
+    second: TileD-Dungeons_224
+  - first:
+      213: 3025439191180583343
+    second: TileD-Dungeons_225
+  - first:
+      213: 6125459743605818806
+    second: TileD-Dungeons_226
+  - first:
+      213: -2289775530523707063
+    second: TileD-Dungeons_227
+  - first:
+      213: -6026808771519187917
+    second: TileD-Dungeons_228
+  - first:
+      213: -3135002033560425044
+    second: TileD-Dungeons_229
+  - first:
+      213: 6741478037435323497
+    second: TileD-Dungeons_230
+  - first:
+      213: -6026856529785449539
+    second: TileD-Dungeons_231
+  - first:
+      213: -6135961069755245799
+    second: TileD-Dungeons_232
+  - first:
+      213: 1238580306087874192
+    second: TileD-Dungeons_233
+  - first:
+      213: -5015975221733376688
+    second: TileD-Dungeons_234
+  - first:
+      213: 4566561677403910123
+    second: TileD-Dungeons_235
+  - first:
+      213: -2086199506621621622
+    second: TileD-Dungeons_236
+  - first:
+      213: 9179570089865782127
+    second: TileD-Dungeons_237
+  - first:
+      213: 6178382462422009240
+    second: TileD-Dungeons_238
+  - first:
+      213: 8350116152197824276
+    second: TileD-Dungeons_239
+  - first:
+      213: -3546600879641944501
+    second: TileD-Dungeons_240
+  - first:
+      213: -1769041076083767114
+    second: TileD-Dungeons_241
+  - first:
+      213: 939496994687202855
+    second: TileD-Dungeons_242
+  - first:
+      213: 2163731553088108054
+    second: TileD-Dungeons_243
+  - first:
+      213: -1386421465298172673
+    second: TileD-Dungeons_244
+  - first:
+      213: 7221723201322493730
+    second: TileD-Dungeons_245
+  - first:
+      213: 7947635792704504948
+    second: TileD-Dungeons_246
+  - first:
+      213: 6563157411502267881
+    second: TileD-Dungeons_247
+  - first:
+      213: 7155455312522272836
+    second: TileD-Dungeons_248
+  - first:
+      213: -7730417188831645028
+    second: TileD-Dungeons_249
+  - first:
+      213: 4597837864974496622
+    second: TileD-Dungeons_250
+  - first:
+      213: 5322026404457588963
+    second: TileD-Dungeons_251
+  - first:
+      213: 3260521799063086295
+    second: TileD-Dungeons_252
+  - first:
+      213: -891563950891276852
+    second: TileD-Dungeons_253
+  - first:
+      213: -4217566380739000912
+    second: TileD-Dungeons_254
+  - first:
+      213: -6957945455089719035
+    second: TileD-Dungeons_255
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileD-Dungeons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6246d07b291db744be79cc7deb4eacc
+      internalID: -7888768406805299048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bc87796ddfed448a20602c7010c0cd
+      internalID: -4297884573948383089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95156bb8add9c4da7b58bc3786bc4c
+      internalID: -5988546823108429116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6c4e0e2802d9944829db4b0ddd1fd7
+      internalID: 8413990198223742948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a627f464b59fce4f8156821b23896d5
+      internalID: -6438069775781835135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf402e293374cf42b1f099749771636
+      internalID: -5539307073600179964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183cfb9df9dfbc54798bb31ca44d15ec
+      internalID: -1704942937940915089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e651de1d9846840ad93f44627c776d
+      internalID: 3631832410227631065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1753cdfa0ba03c49834c77566b8bce6
+      internalID: 5673530772026313544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283a1fcbd00132d47a5056abcc7de2f4
+      internalID: 2896478658069311222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380d0c84d90d7c545aa34589753b19c8
+      internalID: 3756710412049273229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afd65e293d56d4398ff241601bb9d3
+      internalID: 6602081067357223313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcda3cd39fe32f4890907a050737742
+      internalID: 852884723642180380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c14578cf1edaa46bddaac9052f80eb
+      internalID: -6330393430300753530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8cc9da0fe7ecf4191ab4b44a91fa0f
+      internalID: -7003015254110581988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8dbe2d1050b34ab0fd67754ffa224
+      internalID: 4845731601364451804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af71d004508e414e807bdcb94059a28
+      internalID: -3352007433949159936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c4437ca89cb1c4281629ded1605390
+      internalID: -4048515678303414627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a68df33a2f0a54292d2ac5f1d3c6f0
+      internalID: 5153780293160150170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf7905c6157f1c40ba80eb44936a3b9
+      internalID: -3028836946577991168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988e14628296a0d4291c5e9d5412e104
+      internalID: -6588095748319565024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f906e57574648cf49aa2aad1808ee3a6
+      internalID: -4743725651204360164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de72bd258c57164c91da23f822a2902
+      internalID: -3335783459704266329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d409c9ce815054ba77f4a73de19983
+      internalID: -475256176097721365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee038cc94eac145aa9692cf5162369
+      internalID: 2586449899792152909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236d5e2d49655c84693211828453a0ab
+      internalID: -5753045417000388311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e35748a3605254aabd1928aaa56839
+      internalID: -5126402975727534502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a730ab0b1f454f54ebb15a924a4b0896
+      internalID: -7517671320498508393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd4ed467da487479f86c3ed8360f5c
+      internalID: 7878533811941831437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca00ec19ad14234aa0249923200d824
+      internalID: 503297610169280820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3acabeac40a8a459c8161d0ea7c899
+      internalID: -6120122987482761905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f33feaf4ffcc643815f647ee0cd40f
+      internalID: 8410701886617299079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad6030126218904dbc763b9ab4cb85d
+      internalID: -155272880706165161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3165a0276dd568441b03be7d9482cbd6
+      internalID: 2442904088489806280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e21637d50fb8f245a821b3dfa16da85
+      internalID: 3699852418791321251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68073a5685bf6bd499cc9f682ffb41a9
+      internalID: -1288430227700555995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd88853a9487684d97cfe090d4612ca
+      internalID: -7587855706633713372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c00c7a45867f14999870a2576e0ec8
+      internalID: 580593347853979243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c7807c801bd3a4f8330477508947b2
+      internalID: 8689228657895530878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6365d33990a11344bde523755333ae5
+      internalID: -4267214824919283414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634e07983ffdb524f99261106e7f68b2
+      internalID: -8978303442050648472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d211e0efce7cc74f8b1ae206f20be01
+      internalID: 7385591330315298001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74cf2a0e8cb92448a5e7cee950555d8
+      internalID: 2272464526214713639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2844768df4a6945aa5ec97333866e6
+      internalID: -8866265526112452556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28960a76aad62ca4b99116178d4e978e
+      internalID: -7015515888729322060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef61fb7c2bf9bc459849376670c7284
+      internalID: -5509489928318766106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9f181a0e7b474448b7c9bdba9193db
+      internalID: 7196826482765354260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2928338e63b2e647a278697e614cff0
+      internalID: 7380036100317882540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082a36de41298b44b87ba337e02ea2d3
+      internalID: -8761883044926452210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737a901238af8d944b2fa7c3554244fd
+      internalID: -3685242298747611902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c28e1dde8d775744850529879e86980
+      internalID: -2884039271427162643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b02e7ac1ffaf4cad66db0d8efdaa9
+      internalID: 5992712785770365032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a4e7caaedf964792f5cc197d8843d
+      internalID: -307826807854018137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccda7fbda236be46a8db05ce70792d1
+      internalID: 256227290078486172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41201f8ef8afd7b478430d8ee04464ea
+      internalID: 728461449767761931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c44ed13ba4d72499ff85cb60011ffa
+      internalID: 983826524743862361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb61c5cf80aa3904eadd77239d0e784b
+      internalID: 8563164301572424114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abf0e65e9f7013458db64855dd1dfa0
+      internalID: 8657069946878938218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa0728715d1afc4386b49491a5ff5f0
+      internalID: -5608614601229900793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debd7288012b1c64d945e5239184fcf3
+      internalID: 5372700998603861758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3155e494e2c30c7478f294de8ab1eff9
+      internalID: 6841480392860916866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_61
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a590e5b17186d94d8d553d1b83a314f
+      internalID: 4046678046479096390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c575388b79587ee47a8d0536affd2a10
+      internalID: -3274105461926084814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e790238408947dd44bb563a0d8ecca46
+      internalID: -1362812809220635153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46416ea898191784f8ea892ce5b67f97
+      internalID: -6529175505818939478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4053f94c924671d43a094d250eaa816b
+      internalID: -6505005631693043833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabac9ccc1302624ea9a2760a542e126
+      internalID: 7211658805998906986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8cfbfc3666e546943261baba905b0
+      internalID: 6385550222932567377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03f586672278ec4bb76d992ab0d5aa3
+      internalID: 2144402385616427143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b6b46d5bc3b454496ec5ca3453911f
+      internalID: 2480685258605652945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f0ef65d40e7b843ac59e185acf209a
+      internalID: 7398176125012130459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22f69dd99e303445b1fe31f9bea888d
+      internalID: -7555079368734393431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76514aefd4923654492444b702c524f7
+      internalID: -600666179000823324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbf99d0fb35f504880c5b6002123095
+      internalID: -2150984938344088406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f8844f296ce9f45b5111a7569ddac9
+      internalID: 2792460435411277719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791cc5164de14c94597a4057c0b767dc
+      internalID: -314066666255738611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f7ae90a0652bb45be0f201db1abe56
+      internalID: -5505849791621458489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828c3bd9073ba354689ea1e29b9d28ab
+      internalID: -2628931658128430726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f79808fb2a484fac2a04076121a79
+      internalID: 7433404294403369910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2005333884ba6484fa7fa72dea48e269
+      internalID: 8979117685487394387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdfb05c8c234ce418cfb7edba2867b6
+      internalID: -8200489331301687817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4306c8d7e4bc70c45820c8c0b885b262
+      internalID: 4570462867932564549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f427317702d9774d97c3d35c5a59a9a
+      internalID: -7500649265759203995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda601055a04d794e8ddc550a9457792
+      internalID: -7852769482614115180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747ce47ee8d25be4baedd18f73c2d8a2
+      internalID: 2324337853638797218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398f9cccd1936544bbb9dfe9d87b9f78
+      internalID: 7639166032148231286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b90c350baab38418449e0d9e37890c
+      internalID: 2595220971070497121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ea81c73c626a4baab6dc87063f0c4
+      internalID: 1975602559133200701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340740d72700e24aaa6032ee812bbbc
+      internalID: -3212219668568887662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e587b6ccec934444ebcfe9ac8f68d3a9
+      internalID: 7819468857284647206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e560afbaab1e5444ba1d66dc7cf497e7
+      internalID: 5415333618734276549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90edb360d8491544ab10de18a1ce2f03
+      internalID: 590595020718837231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd23efb99dc13a4bb6364aecc328873
+      internalID: -3411435710929135433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b508eb4335b64ab2ce96ff965b107
+      internalID: -6647893811642497184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d499ae0a395c321469d351585e9016b2
+      internalID: -3682932913048945798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff7c639dc158984287e070a48e301b1
+      internalID: -2215712285082075849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87c1486c2685e94aae3bfe706b3e7c9
+      internalID: 5844201829016169362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6103b464b9403b4eac69d22ead9a4f8
+      internalID: 6740966511254596017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27419a02f4c43c0479f38309f364c18c
+      internalID: 4122337117360536620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46c2643e204c0843841addad67c95fc
+      internalID: -1703580768560751221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223cda11e43e8594cae8a2e1cf848ce0
+      internalID: 523747197956620505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ac77b2ee673274a926bf8718669246
+      internalID: -7726314412868541143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f5dfa750542a945a7be3ab15cdae26
+      internalID: 1373393618938534695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc63afa685fe5b4c97ae591b4672586
+      internalID: 2850519643509695965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c3bbff2f2931a44bb2f6e859105a56
+      internalID: 6690048960545334644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5aaceec3191184fb84a1e3bbeb5ea7
+      internalID: 3879765784385415012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4528dad662fd4864da8294dd586f1f7d
+      internalID: -9025296451495531945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2450661c28226324989756c86a74385b
+      internalID: -5346883089973958823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96e6ed5c852e54698f9c5fa08ae16b
+      internalID: -3873867711715590650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae0b321e4f67e14eb40fe536d14e848
+      internalID: -4794614372485249732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852f7adcf8cfbcc438334f8755bbe84b
+      internalID: -235514771379084709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_111
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19861fd07019243bab441664e6470b
+      internalID: 4233796234110043144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1855a1613848b7b41a8da93b88468c68
+      internalID: -182365392712136756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f555371c264bc4a41a5017665d126440
+      internalID: 2935695518806210713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb35f9dfc786784f8c8c6fb792815bb
+      internalID: -8319138509941490476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef05cb67643c64147a7a232189849184
+      internalID: -7709254164491209194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b031f45488313274086606d08b3a7acf
+      internalID: -6527430749623516763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3391d9b18a17b1e48a91707c0e69eebc
+      internalID: -8661250467655663653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a14b568e0ce4b4b9db9b5d62d071d4
+      internalID: -2909186592526342003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac317ddc2b3efbb4b8024c7b5435e5a8
+      internalID: 7661436858078082641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9530aa40cb4d2d4b97f9d338cb5df42
+      internalID: -5366566118651448015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9e2310a4eb274eae3b9682f715255
+      internalID: -2500934560307178096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08cf2658148de438646c81e7aa957f
+      internalID: 1795003251879440540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_123
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939c8ace6db2248439bd7631e7f32b00
+      internalID: 9208770548506373428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8985f1b2c25a8d446beec5bfcd34caf5
+      internalID: 1557996328491127807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce232a3bd46d4bb46af8a92cb12e9df2
+      internalID: 7878414573662898103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8153c93b505981946a11a5b0d1b220a2
+      internalID: -5502061438341982814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5a36c8f3eaa6c41bd815937f96609e
+      internalID: 7448609219070227646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdf062ec9ffca642ab52c88cc42929f
+      internalID: 6042001388210853521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8e1efec73ba464fabbf613351b3dfe
+      internalID: 362005265635560898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44453d8e8e383e04ea97791ddef72356
+      internalID: -894470733647095532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f3cd023386fc43a9ca75fbcd58a8b
+      internalID: 392695223347333290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fff4d04416db6148aceb1b6a7a52bbd
+      internalID: -1931733519261190993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146fc21ff91522545aaff4e94805f803
+      internalID: -2195197716324566974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae9eabf95dbb14cb1b3a5ac1f08736
+      internalID: -4059305321170654706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0941877f8e57b5849868f0205da07157
+      internalID: -6200270032298383647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48104f2c47d41a408545ae6d68c6955
+      internalID: -3217612388887066493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7285cf400087a514e9b73111810e76f2
+      internalID: -4724860873106563427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839ec57fee96ad42a3bc8bf5113b41e
+      internalID: 5777926830275065936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c66535151ccb43abd570e223f5bd1
+      internalID: 8911598267930412204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903aacf8d2b3e4344b04c78896eb8f81
+      internalID: -206124758357902412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c159fb00c5a060745a1f7df88a729646
+      internalID: -7213795625349461443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_142
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33841d1a57aa487409392290e7676c9a
+      internalID: 8019504544168767759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce3a6f6aaae76b4e857ea6f1dcb5013
+      internalID: -1090001057141250872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c389a5c2b63a548827abd5887ea948
+      internalID: -6669055592737714037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8dbbdce21929148ba7b45f89eb7516
+      internalID: 1858968709646009471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a1fab552ab3b8468aca03354afe8e9
+      internalID: -8734204989119472019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b39e13a4fe7ded439e6e058d7b334c4
+      internalID: -5946408901643651955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d7b3ee57997bb4eb282535cb3a8803
+      internalID: 8928805808338662715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56de9f9a2bba2a94b906ced498556570
+      internalID: -7485360945548397162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934222f880191f4429e4b3d062d9945d
+      internalID: 6609245729956688945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1998ae09645cc4bb678ff3c71f83f8
+      internalID: -3834673814209210700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffa6df16660454458b43d24d5748521
+      internalID: -4408642692830582355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137fc44b46fe46d42841f6553c49e6b1
+      internalID: -6993693745957869734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ba758c2f5761458217e69c68173a0
+      internalID: -7958110824066922690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac772cdaf21bab45a1084cde89ba0c9
+      internalID: -322356888092697834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31135b6e23f2b214b9526264572fbc99
+      internalID: -6452925334376120421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e5bbb4df31cf54dbfa58f2603f62e1
+      internalID: -7434422412235050272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_158
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b514084dbd68e4f48b41d516ab379004
+      internalID: 3579208201596168164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f6a1e9ea1d0274387b7824ac20e24d
+      internalID: -3299622906197310936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328bef4263d3a2d49945e10c95ff75e4
+      internalID: 8714518432419130917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da605079cb3a8b489c410c8b88cd1c4
+      internalID: 7667072611330810177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffd3514d983bfc419fc03400171d208
+      internalID: -5576574636625168537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a50ac39ca755c48b6e88bbfc2f68db
+      internalID: 6606892621881299845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d44a2f8b7e4c468f8e5bbce7d7d86
+      internalID: -4197912050152635748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b535215f50adc84586deb59f2b17755
+      internalID: -334107302518163400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519898aed263b724f91144a24215d4e2
+      internalID: -1437927906153580656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af86179770d88546905fb2473cc9464
+      internalID: -3370866399166493560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a3f991c4124a741889aa94a47a2af8
+      internalID: -6941555298380383607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_169
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087abf6b565e06647a2a30b2511718ac
+      internalID: 8002472859658339627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_170
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f97caa49d931438f4c2052c59b40c
+      internalID: -5730305889159739895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_171
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d30267605ceb49a08225bdc498bdc
+      internalID: 3281316864997137129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a140b48ec5448e74ea98fc3ab8e28dfe
+      internalID: 3669037336575181248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_173
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb72043a38b6ddc408d45a5a458bd65c
+      internalID: -9181138774840345463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_174
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bb66e6563cbbf40b07f6ff97cb9ea2
+      internalID: -7998632225870836230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_175
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2a7113a9e2120448a5b8a9911e7302
+      internalID: 8969725208030504984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60a306c27141c143b8d52d9e47b40b4
+      internalID: -4387388308899870318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aa48904b0fda84aaa75ef620d6c2f5
+      internalID: -5709905747255611203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da7f10fb954bc343bf04ddefb2a4c7c
+      internalID: 9065108314860834473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe00df46f21cd4e9b763018d2f0ef0
+      internalID: -7097699209438159436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92dbaf5a97b5f9428b33c99e0cb6bec
+      internalID: -769104355834950614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2816a654d0f92945947b8840abb0b4e
+      internalID: 8820710393632100582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec264112b49ddf040aa1eac06ea8f9ef
+      internalID: -6806651338781982567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09251eeb3217b2c4abb912e6c3aaf188
+      internalID: -8604964330402952734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408adccc882cb574fbb2849c9500dd8a
+      internalID: -3860330524064974621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9530ab251f4c6dc488eb1687a8d4c852
+      internalID: -8868502809334314272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaceac5d9bf161f49af0b8d9f914e05a
+      internalID: 2040614286975455693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a6c8adf9054cb46aa0d7e6ea8c5ab9
+      internalID: -1672999559027706012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd59f1763c459474f99c721afcf40abc
+      internalID: -3975279039520268255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fadfb14f5a675418a4f132f899d6ea
+      internalID: -1702775595513509267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_190
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d095af8693836694badcd8db164da8e6
+      internalID: 689867081407978090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_191
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9e23741f78a594dbd98ba9130fa894
+      internalID: -2438961129643048576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2136e02dfb8d04d9baa72ee26568ff
+      internalID: -3144188426850971906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f11fa5c7a3fdd46b9df6a66c03462c
+      internalID: 4561216741885583620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b104848276f1d884785e29a0db006338
+      internalID: 4966876932688566413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db64ecc819074a40ac2a5f7af1f476b
+      internalID: -7777940493373167725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b32fd41ca2d8aa45afac9235dca82a6
+      internalID: -6045441330201515738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f9070693c2a244a3307526f800c63
+      internalID: -2708160216569522049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89368091dc877449892f76a4e32b3b8
+      internalID: -4051557100652254470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab665cb2f982bf144b9d53bd52c3877d
+      internalID: 1639466442676143144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ae52562fa1b3d4e99f5d13aa1beb6d
+      internalID: -1856396919156011738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_201
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e05a72d054d2fc47b5d21f0ada33754
+      internalID: 1999331497433067701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_202
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd234ad0f782b04c97fbb63468d3b63
+      internalID: 3904719479394159942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_203
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd95d54b3c55e468b3bf5130773bdc
+      internalID: -773581017858743597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e17ecc0330161e4cabc549fdf1b2692
+      internalID: -2658315625380242457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_205
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff9b4e8ba26fd7429f37379f1e171ff
+      internalID: -1070144871506182936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_206
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b5c2ec25b90874fb938e2debfe8aab
+      internalID: -2067299304605240894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_207
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71ad0aa71c86f448519f4f4b904ac3
+      internalID: -7872257233404365177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37678ce11b9bb0445ae5f0920ee7df90
+      internalID: 2219245349910997079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f810f250ee2707a4aa7027127dc60547
+      internalID: 2583324987328078972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db1f8da42a3b95429c0a015c75667cb
+      internalID: -3546657332302390276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a43dcebe4e7434eb1676bf6e4a2e74
+      internalID: -2867323687774229831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba8ddff1c3185f48af3e1562ea67446
+      internalID: -7638470720188808616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_213
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9ff2edc073e6b49be7c821c571571c
+      internalID: 6152690415033491818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5de06823523c341ae0710c0db01f57
+      internalID: 8310342527899803824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ca583441617ba418502d3c005a842d
+      internalID: -4836954606274486317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0e62f506f02d44fb94bb51a767dd41
+      internalID: 8125713394135161623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_217
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc363332c2c9a44281c6167e4cda0de
+      internalID: -6373729594560807213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70913a99e4791be408ef7c2e07775744
+      internalID: 440183841277497584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_219
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52ab262c919f1549b5b88aba0f7c79b
+      internalID: -5889132118651365919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_220
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ff53ec1619be149af02cc94e4bbc42
+      internalID: 8845314568021195298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_221
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8e392f0bd52694cbe036281af85728
+      internalID: 4241513288723062144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_222
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fad3cfe8fd94cc4e8f4dae93b304b63
+      internalID: 5076196072187993764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_223
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d580bf1cb1bc0b549bf3f8045cf54dcc
+      internalID: 5928077906789928674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b4f7de2f735d745aacb5204b28abe9
+      internalID: 8634094841380079745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cde63e90e23d34ea5f2ce413b4c344
+      internalID: 3025439191180583343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f10fa3134793445b84ef3c19219138
+      internalID: 6125459743605818806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_227
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6bd0ae2ec5c4a43baacc4a9badca14
+      internalID: -2289775530523707063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e74f52e8501939439b29a9d6a89829f
+      internalID: -6026808771519187917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_229
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b8623a49106c74ca5240ed6e8c57e6
+      internalID: -3135002033560425044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_230
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3849cade0bc06f4e8b2a571165d56a6
+      internalID: 6741478037435323497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_231
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d91fe70faeafe04a9d513d622f7adf3
+      internalID: -6026856529785449539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3fae298aee25b49bd63f242afc2984
+      internalID: -6135961069755245799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_233
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b58c48826b43224e8d89cfa58dee2f1
+      internalID: 1238580306087874192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9107943d29bf4888c84a26af0afc9
+      internalID: -5015975221733376688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_235
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cb5fe3a2bc07f42a16082a8db02d8a
+      internalID: 4566561677403910123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_236
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf29f01a259552542a870a654e595783
+      internalID: -2086199506621621622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_237
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6253a9dd742a1cb42aded7b450e87aa7
+      internalID: 9179570089865782127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_238
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af830ddd6c4dbeb48a3a9ca10906cba3
+      internalID: 6178382462422009240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_239
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1573285924cd2484da2d833075c98581
+      internalID: 8350116152197824276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14baf38d241d05945b851743ecba2fe8
+      internalID: -3546600879641944501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d121beee0e825646a42884105093e35
+      internalID: -1769041076083767114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf11cd7152ffa44b11bb5afea520f6
+      internalID: 939496994687202855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ed68cd11e1fde4c9a641074475019e
+      internalID: 2163731553088108054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00be7cefb17ec746bde26112cf824c0
+      internalID: -1386421465298172673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_245
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8ef7c25ed5d4c4fae00165f1ecdc52
+      internalID: 7221723201322493730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a0398a133f18d428e8cb3488d74029
+      internalID: 7947635792704504948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d823b4027ddeef448c715fad31ba349
+      internalID: 6563157411502267881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e754eba83553c4f97141a58c0638df
+      internalID: 7155455312522272836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_249
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1247b438764d6e84883c1e3583bdaeab
+      internalID: -7730417188831645028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_250
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31780798a12a7b469f78dedc537ba4a
+      internalID: 4597837864974496622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_251
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605e5591eafea0147b8bcb5b6ece384a
+      internalID: 5322026404457588963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_252
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b386c4d7cdda843bb348fc5f477cd5
+      internalID: 3260521799063086295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bab6830dbd89745bc481e791146ad3
+      internalID: -891563950891276852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_254
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c914640eb9344429a11cb51c645f34
+      internalID: -4217566380739000912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileD-Dungeons_255
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ab9e03586c4544b4d82baf803a6c0
+      internalID: -6957945455089719035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TileD-Dungeons_225: 3025439191180583343
+      TileD-Dungeons_140: -206124758357902412
+      TileD-Dungeons_242: 939496994687202855
+      TileD-Dungeons_102: 1373393618938534695
+      TileD-Dungeons_230: 6741478037435323497
+      TileD-Dungeons_197: -2708160216569522049
+      TileD-Dungeons_222: 5076196072187993764
+      TileD-Dungeons_32: -155272880706165161
+      TileD-Dungeons_120: -5366566118651448015
+      TileD-Dungeons_243: 2163731553088108054
+      TileD-Dungeons_11: 6602081067357223313
+      TileD-Dungeons_89: 7819468857284647206
+      TileD-Dungeons_34: 3699852418791321251
+      TileD-Dungeons_118: -2909186592526342003
+      TileD-Dungeons_193: 4561216741885583620
+      TileD-Dungeons_41: 7385591330315298001
+      TileD-Dungeons_153: -6993693745957869734
+      TileD-Dungeons_44: -7015515888729322060
+      TileD-Dungeons_155: -322356888092697834
+      TileD-Dungeons_97: 6740966511254596017
+      TileD-Dungeons_229: -3135002033560425044
+      TileD-Dungeons_239: 8350116152197824276
+      TileD-Dungeons_93: -6647893811642497184
+      TileD-Dungeons_228: -6026808771519187917
+      TileD-Dungeons_108: -3873867711715590650
+      TileD-Dungeons_75: -314066666255738611
+      TileD-Dungeons_121: -2500934560307178096
+      TileD-Dungeons_139: 8911598267930412204
+      TileD-Dungeons_158: 3579208201596168164
+      TileD-Dungeons_85: 7639166032148231286
+      TileD-Dungeons_251: 5322026404457588963
+      TileD-Dungeons_241: -1769041076083767114
+      TileD-Dungeons_217: -6373729594560807213
+      TileD-Dungeons_107: -5346883089973958823
+      TileD-Dungeons_177: -5709905747255611203
+      TileD-Dungeons_28: 7878533811941831437
+      TileD-Dungeons_227: -2289775530523707063
+      TileD-Dungeons_65: -6505005631693043833
+      TileD-Dungeons_248: 7155455312522272836
+      TileD-Dungeons_181: 8820710393632100582
+      TileD-Dungeons_209: 2583324987328078972
+      TileD-Dungeons_119: 7661436858078082641
+      TileD-Dungeons_27: -7517671320498508393
+      TileD-Dungeons_212: -7638470720188808616
+      TileD-Dungeons_2: -5988546823108429116
+      TileD-Dungeons_50: -2884039271427162643
+      TileD-Dungeons_190: 689867081407978090
+      TileD-Dungeons_35: -1288430227700555995
+      TileD-Dungeons_5: -5539307073600179964
+      TileD-Dungeons_145: 1858968709646009471
+      TileD-Dungeons_130: -894470733647095532
+      TileD-Dungeons_199: 1639466442676143144
+      TileD-Dungeons_200: -1856396919156011738
+      TileD-Dungeons_99: -1703580768560751221
+      TileD-Dungeons_148: 8928805808338662715
+      TileD-Dungeons_188: -3975279039520268255
+      TileD-Dungeons_40: -8978303442050648472
+      TileD-Dungeons_163: 6606892621881299845
+      TileD-Dungeons_52: -307826807854018137
+      TileD-Dungeons_86: 2595220971070497121
+      TileD-Dungeons_95: -2215712285082075849
+      TileD-Dungeons_54: 728461449767761931
+      TileD-Dungeons_160: 8714518432419130917
+      TileD-Dungeons_249: -7730417188831645028
+      TileD-Dungeons_48: -8761883044926452210
+      TileD-Dungeons_204: -2658315625380242457
+      TileD-Dungeons_7: 3631832410227631065
+      TileD-Dungeons_180: -769104355834950614
+      TileD-Dungeons_137: -4724860873106563427
+      TileD-Dungeons_19: -3028836946577991168
+      TileD-Dungeons_152: -4408642692830582355
+      TileD-Dungeons_250: 4597837864974496622
+      TileD-Dungeons_37: 580593347853979243
+      TileD-Dungeons_198: -4051557100652254470
+      TileD-Dungeons_36: -7587855706633713372
+      TileD-Dungeons_42: 2272464526214713639
+      TileD-Dungeons_94: -3682932913048945798
+      TileD-Dungeons_67: 6385550222932567377
+      TileD-Dungeons_246: 7947635792704504948
+      TileD-Dungeons_206: -2067299304605240894
+      TileD-Dungeons_21: -4743725651204360164
+      TileD-Dungeons_0: -7888768406805299048
+      TileD-Dungeons_100: 523747197956620505
+      TileD-Dungeons_178: 9065108314860834473
+      TileD-Dungeons_39: -4267214824919283414
+      TileD-Dungeons_147: -5946408901643651955
+      TileD-Dungeons_236: -2086199506621621622
+      TileD-Dungeons_59: 5372700998603861758
+      TileD-Dungeons_114: -8319138509941490476
+      TileD-Dungeons_126: -5502061438341982814
+      TileD-Dungeons_203: -773581017858743597
+      TileD-Dungeons_208: 2219245349910997079
+      TileD-Dungeons_213: 6152690415033491818
+      TileD-Dungeons_224: 8634094841380079745
+      TileD-Dungeons_1: -4297884573948383089
+      TileD-Dungeons_45: -5509489928318766106
+      TileD-Dungeons_207: -7872257233404365177
+      TileD-Dungeons_61: 4046678046479096390
+      TileD-Dungeons_123: 9208770548506373428
+      TileD-Dungeons_129: 362005265635560898
+      TileD-Dungeons_157: -7434422412235050272
+      TileD-Dungeons_201: 1999331497433067701
+      TileD-Dungeons_214: 8310342527899803824
+      TileD-Dungeons_233: 1238580306087874192
+      TileD-Dungeons_182: -6806651338781982567
+      TileD-Dungeons_253: -891563950891276852
+      TileD-Dungeons_244: -1386421465298172673
+      TileD-Dungeons_22: -3335783459704266329
+      TileD-Dungeons_220: 8845314568021195298
+      TileD-Dungeons_88: -3212219668568887662
+      TileD-Dungeons_30: -6120122987482761905
+      TileD-Dungeons_96: 5844201829016169362
+      TileD-Dungeons_6: -1704942937940915089
+      TileD-Dungeons_191: -2438961129643048576
+      TileD-Dungeons_66: 7211658805998906986
+      TileD-Dungeons_136: -3217612388887066493
+      TileD-Dungeons_134: -4059305321170654706
+      TileD-Dungeons_124: 1557996328491127807
+      TileD-Dungeons_69: 2480685258605652945
+      TileD-Dungeons_109: -4794614372485249732
+      TileD-Dungeons_62: -3274105461926084814
+      TileD-Dungeons_174: -7998632225870836230
+      TileD-Dungeons_176: -4387388308899870318
+      TileD-Dungeons_143: -1090001057141250872
+      TileD-Dungeons_186: 2040614286975455693
+      TileD-Dungeons_189: -1702775595513509267
+      TileD-Dungeons_159: -3299622906197310936
+      TileD-Dungeons_205: -1070144871506182936
+      TileD-Dungeons_195: -7777940493373167725
+      TileD-Dungeons_149: -7485360945548397162
+      TileD-Dungeons_4: -6438069775781835135
+      TileD-Dungeons_237: 9179570089865782127
+      TileD-Dungeons_33: 2442904088489806280
+      TileD-Dungeons_122: 1795003251879440540
+      TileD-Dungeons_132: -1931733519261190993
+      TileD-Dungeons_219: -5889132118651365919
+      TileD-Dungeons_254: -4217566380739000912
+      TileD-Dungeons_104: 6690048960545334644
+      TileD-Dungeons_238: 6178382462422009240
+      TileD-Dungeons_131: 392695223347333290
+      TileD-Dungeons_164: -4197912050152635748
+      TileD-Dungeons_53: 256227290078486172
+      TileD-Dungeons_56: 8563164301572424114
+      TileD-Dungeons_168: -6941555298380383607
+      TileD-Dungeons_92: -3411435710929135433
+      TileD-Dungeons_231: -6026856529785449539
+      TileD-Dungeons_16: -3352007433949159936
+      TileD-Dungeons_80: -8200489331301687817
+      TileD-Dungeons_60: 6841480392860916866
+      TileD-Dungeons_71: -7555079368734393431
+      TileD-Dungeons_81: 4570462867932564549
+      TileD-Dungeons_234: -5015975221733376688
+      TileD-Dungeons_184: -3860330524064974621
+      TileD-Dungeons_210: -3546657332302390276
+      TileD-Dungeons_133: -2195197716324566974
+      TileD-Dungeons_23: -475256176097721365
+      TileD-Dungeons_113: 2935695518806210713
+      TileD-Dungeons_57: 8657069946878938218
+      TileD-Dungeons_192: -3144188426850971906
+      TileD-Dungeons_173: -9181138774840345463
+      TileD-Dungeons_17: -4048515678303414627
+      TileD-Dungeons_47: 7380036100317882540
+      TileD-Dungeons_247: 6563157411502267881
+      TileD-Dungeons_127: 7448609219070227646
+      TileD-Dungeons_110: -235514771379084709
+      TileD-Dungeons_128: 6042001388210853521
+      TileD-Dungeons_105: 3879765784385415012
+      TileD-Dungeons_170: -5730305889159739895
+      TileD-Dungeons_221: 4241513288723062144
+      TileD-Dungeons_82: -7500649265759203995
+      TileD-Dungeons_117: -8661250467655663653
+      TileD-Dungeons_232: -6135961069755245799
+      TileD-Dungeons_46: 7196826482765354260
+      TileD-Dungeons_169: 8002472859658339627
+      TileD-Dungeons_20: -6588095748319565024
+      TileD-Dungeons_24: 2586449899792152909
+      TileD-Dungeons_135: -6200270032298383647
+      TileD-Dungeons_101: -7726314412868541143
+      TileD-Dungeons_90: 5415333618734276549
+      TileD-Dungeons_240: -3546600879641944501
+      TileD-Dungeons_144: -6669055592737714037
+      TileD-Dungeons_151: -3834673814209210700
+      TileD-Dungeons_12: 852884723642180380
+      TileD-Dungeons_103: 2850519643509695965
+      TileD-Dungeons_29: 503297610169280820
+      TileD-Dungeons_125: 7878414573662898103
+      TileD-Dungeons_68: 2144402385616427143
+      TileD-Dungeons_112: -182365392712136756
+      TileD-Dungeons_150: 6609245729956688945
+      TileD-Dungeons_202: 3904719479394159942
+      TileD-Dungeons_63: -1362812809220635153
+      TileD-Dungeons_218: 440183841277497584
+      TileD-Dungeons_72: -600666179000823324
+      TileD-Dungeons_31: 8410701886617299079
+      TileD-Dungeons_70: 7398176125012130459
+      TileD-Dungeons_146: -8734204989119472019
+      TileD-Dungeons_215: -4836954606274486317
+      TileD-Dungeons_13: -6330393430300753530
+      TileD-Dungeons_9: 2896478658069311222
+      TileD-Dungeons_106: -9025296451495531945
+      TileD-Dungeons_187: -1672999559027706012
+      TileD-Dungeons_87: 1975602559133200701
+      TileD-Dungeons_171: 3281316864997137129
+      TileD-Dungeons_226: 6125459743605818806
+      TileD-Dungeons_51: 5992712785770365032
+      TileD-Dungeons_235: 4566561677403910123
+      TileD-Dungeons_162: -5576574636625168537
+      TileD-Dungeons_10: 3756710412049273229
+      TileD-Dungeons_115: -7709254164491209194
+      TileD-Dungeons_79: 8979117685487394387
+      TileD-Dungeons_138: 5777926830275065936
+      TileD-Dungeons_211: -2867323687774229831
+      TileD-Dungeons_15: 4845731601364451804
+      TileD-Dungeons_141: -7213795625349461443
+      TileD-Dungeons_142: 8019504544168767759
+      TileD-Dungeons_18: 5153780293160150170
+      TileD-Dungeons_156: -6452925334376120421
+      TileD-Dungeons_167: -3370866399166493560
+      TileD-Dungeons_175: 8969725208030504984
+      TileD-Dungeons_76: -5505849791621458489
+      TileD-Dungeons_49: -3685242298747611902
+      TileD-Dungeons_154: -7958110824066922690
+      TileD-Dungeons_73: -2150984938344088406
+      TileD-Dungeons_216: 8125713394135161623
+      TileD-Dungeons_98: 4122337117360536620
+      TileD-Dungeons_252: 3260521799063086295
+      TileD-Dungeons_25: -5753045417000388311
+      TileD-Dungeons_3: 8413990198223742948
+      TileD-Dungeons_14: -7003015254110581988
+      TileD-Dungeons_84: 2324337853638797218
+      TileD-Dungeons_26: -5126402975727534502
+      TileD-Dungeons_196: -6045441330201515738
+      TileD-Dungeons_43: -8866265526112452556
+      TileD-Dungeons_91: 590595020718837231
+      TileD-Dungeons_223: 5928077906789928674
+      TileD-Dungeons_165: -334107302518163400
+      TileD-Dungeons_38: 8689228657895530878
+      TileD-Dungeons_64: -6529175505818939478
+      TileD-Dungeons_55: 983826524743862361
+      TileD-Dungeons_58: -5608614601229900793
+      TileD-Dungeons_111: 4233796234110043144
+      TileD-Dungeons_166: -1437927906153580656
+      TileD-Dungeons_172: 3669037336575181248
+      TileD-Dungeons_78: 7433404294403369910
+      TileD-Dungeons_179: -7097699209438159436
+      TileD-Dungeons_194: 4966876932688566413
+      TileD-Dungeons_255: -6957945455089719035
+      TileD-Dungeons_74: 2792460435411277719
+      TileD-Dungeons_77: -2628931658128430726
+      TileD-Dungeons_8: 5673530772026313544
+      TileD-Dungeons_161: 7667072611330810177
+      TileD-Dungeons_116: -6527430749623516763
+      TileD-Dungeons_245: 7221723201322493730
+      TileD-Dungeons_83: -7852769482614115180
+      TileD-Dungeons_185: -8868502809334314272
+      TileD-Dungeons_183: -8604964330402952734
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

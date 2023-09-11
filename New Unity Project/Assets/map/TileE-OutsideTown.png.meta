@@ -1,0 +1,6461 @@
+fileFormatVersion: 2
+guid: 0b4802bad522b064d9f2aa97b5a66e99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5273218872601841128
+    second: TileE-OutsideTown_0
+  - first:
+      213: -9036631607145465285
+    second: TileE-OutsideTown_1
+  - first:
+      213: -10228934443202592
+    second: TileE-OutsideTown_2
+  - first:
+      213: 131245512477502028
+    second: TileE-OutsideTown_3
+  - first:
+      213: 2175487072121210691
+    second: TileE-OutsideTown_4
+  - first:
+      213: 951398666372839921
+    second: TileE-OutsideTown_5
+  - first:
+      213: -1685372986730529372
+    second: TileE-OutsideTown_6
+  - first:
+      213: -5520794978875519847
+    second: TileE-OutsideTown_7
+  - first:
+      213: -5903826853559525565
+    second: TileE-OutsideTown_8
+  - first:
+      213: -8382136801434116805
+    second: TileE-OutsideTown_9
+  - first:
+      213: 4849654087491376715
+    second: TileE-OutsideTown_10
+  - first:
+      213: -1179337952073660629
+    second: TileE-OutsideTown_11
+  - first:
+      213: -3152388342919608316
+    second: TileE-OutsideTown_12
+  - first:
+      213: -1850846296078371142
+    second: TileE-OutsideTown_13
+  - first:
+      213: -779240315473111717
+    second: TileE-OutsideTown_14
+  - first:
+      213: 6872206259505408085
+    second: TileE-OutsideTown_15
+  - first:
+      213: 4617360813272349139
+    second: TileE-OutsideTown_16
+  - first:
+      213: -1312288729962121753
+    second: TileE-OutsideTown_17
+  - first:
+      213: -9100919039184022559
+    second: TileE-OutsideTown_18
+  - first:
+      213: -4649516075125805950
+    second: TileE-OutsideTown_19
+  - first:
+      213: 2570051616171637785
+    second: TileE-OutsideTown_20
+  - first:
+      213: 4050934600974421271
+    second: TileE-OutsideTown_21
+  - first:
+      213: -1909867537955759707
+    second: TileE-OutsideTown_22
+  - first:
+      213: -1666664875807175435
+    second: TileE-OutsideTown_23
+  - first:
+      213: -7334517636819894212
+    second: TileE-OutsideTown_24
+  - first:
+      213: 4087742827386394650
+    second: TileE-OutsideTown_25
+  - first:
+      213: 2120372960182625058
+    second: TileE-OutsideTown_26
+  - first:
+      213: 1494751652296610946
+    second: TileE-OutsideTown_27
+  - first:
+      213: 244886718481943355
+    second: TileE-OutsideTown_28
+  - first:
+      213: 5554596956269195722
+    second: TileE-OutsideTown_29
+  - first:
+      213: -1054330348696720988
+    second: TileE-OutsideTown_30
+  - first:
+      213: -3235470950149642266
+    second: TileE-OutsideTown_31
+  - first:
+      213: -2708533610866828848
+    second: TileE-OutsideTown_32
+  - first:
+      213: -1562451876254960973
+    second: TileE-OutsideTown_33
+  - first:
+      213: 2264575567605039684
+    second: TileE-OutsideTown_34
+  - first:
+      213: 2403466664795920168
+    second: TileE-OutsideTown_35
+  - first:
+      213: -1058584281943640420
+    second: TileE-OutsideTown_36
+  - first:
+      213: 4153479453541543258
+    second: TileE-OutsideTown_37
+  - first:
+      213: 4455448885697820605
+    second: TileE-OutsideTown_38
+  - first:
+      213: 2762527797806906494
+    second: TileE-OutsideTown_39
+  - first:
+      213: 3945773967715660908
+    second: TileE-OutsideTown_40
+  - first:
+      213: -6708145826357636711
+    second: TileE-OutsideTown_41
+  - first:
+      213: -4553321089548570965
+    second: TileE-OutsideTown_42
+  - first:
+      213: -6956565944477627761
+    second: TileE-OutsideTown_43
+  - first:
+      213: 6326590183372790666
+    second: TileE-OutsideTown_44
+  - first:
+      213: -4432609824532945862
+    second: TileE-OutsideTown_45
+  - first:
+      213: 1783160708545010218
+    second: TileE-OutsideTown_46
+  - first:
+      213: 4576802368851774420
+    second: TileE-OutsideTown_47
+  - first:
+      213: 9041049041350075298
+    second: TileE-OutsideTown_48
+  - first:
+      213: -7031682014982816450
+    second: TileE-OutsideTown_49
+  - first:
+      213: 2188900522469287474
+    second: TileE-OutsideTown_50
+  - first:
+      213: 8635426661493357364
+    second: TileE-OutsideTown_51
+  - first:
+      213: -5073341886287241540
+    second: TileE-OutsideTown_52
+  - first:
+      213: 9008197593349922268
+    second: TileE-OutsideTown_53
+  - first:
+      213: -3769611512080936776
+    second: TileE-OutsideTown_54
+  - first:
+      213: 3884499357824279426
+    second: TileE-OutsideTown_55
+  - first:
+      213: -3443343146330345681
+    second: TileE-OutsideTown_56
+  - first:
+      213: 1506848899360885300
+    second: TileE-OutsideTown_57
+  - first:
+      213: -7179096542789279869
+    second: TileE-OutsideTown_58
+  - first:
+      213: 1752665217531788542
+    second: TileE-OutsideTown_59
+  - first:
+      213: -2675648233855217997
+    second: TileE-OutsideTown_60
+  - first:
+      213: -1008214703425744754
+    second: TileE-OutsideTown_61
+  - first:
+      213: -2993962043962973922
+    second: TileE-OutsideTown_62
+  - first:
+      213: -5950029690066838237
+    second: TileE-OutsideTown_63
+  - first:
+      213: 6912498879482463718
+    second: TileE-OutsideTown_64
+  - first:
+      213: -5521584348656828815
+    second: TileE-OutsideTown_65
+  - first:
+      213: -4971587362479959070
+    second: TileE-OutsideTown_66
+  - first:
+      213: 1648718318654160447
+    second: TileE-OutsideTown_67
+  - first:
+      213: 7025457407040788398
+    second: TileE-OutsideTown_68
+  - first:
+      213: -6945377082570600724
+    second: TileE-OutsideTown_69
+  - first:
+      213: -5528952007706481777
+    second: TileE-OutsideTown_70
+  - first:
+      213: 7759378608709281345
+    second: TileE-OutsideTown_71
+  - first:
+      213: -2468764163160714074
+    second: TileE-OutsideTown_72
+  - first:
+      213: -3484838838089182203
+    second: TileE-OutsideTown_73
+  - first:
+      213: 2978984194609311495
+    second: TileE-OutsideTown_74
+  - first:
+      213: 1813378181831912552
+    second: TileE-OutsideTown_75
+  - first:
+      213: -3461467730792109912
+    second: TileE-OutsideTown_76
+  - first:
+      213: -6377840936275448277
+    second: TileE-OutsideTown_77
+  - first:
+      213: 5492581979582580677
+    second: TileE-OutsideTown_78
+  - first:
+      213: 6065333021313038286
+    second: TileE-OutsideTown_79
+  - first:
+      213: 7560626893258102080
+    second: TileE-OutsideTown_80
+  - first:
+      213: -2960053122830000386
+    second: TileE-OutsideTown_81
+  - first:
+      213: 8931364029714434740
+    second: TileE-OutsideTown_82
+  - first:
+      213: 9066670634818012984
+    second: TileE-OutsideTown_83
+  - first:
+      213: 2701634063020462212
+    second: TileE-OutsideTown_84
+  - first:
+      213: -3085838274623189199
+    second: TileE-OutsideTown_85
+  - first:
+      213: -7094072274266635721
+    second: TileE-OutsideTown_86
+  - first:
+      213: 6577106258529855830
+    second: TileE-OutsideTown_87
+  - first:
+      213: 6514161335849158301
+    second: TileE-OutsideTown_88
+  - first:
+      213: -7113988686962809365
+    second: TileE-OutsideTown_89
+  - first:
+      213: 3715244465096968301
+    second: TileE-OutsideTown_90
+  - first:
+      213: 4020652649561922887
+    second: TileE-OutsideTown_91
+  - first:
+      213: 1929629888732053032
+    second: TileE-OutsideTown_92
+  - first:
+      213: -5829740297879718524
+    second: TileE-OutsideTown_93
+  - first:
+      213: -8606323220329179217
+    second: TileE-OutsideTown_94
+  - first:
+      213: 5103912778954933262
+    second: TileE-OutsideTown_95
+  - first:
+      213: 264011103903503420
+    second: TileE-OutsideTown_96
+  - first:
+      213: 2320711146564166355
+    second: TileE-OutsideTown_97
+  - first:
+      213: 2371812681494367440
+    second: TileE-OutsideTown_98
+  - first:
+      213: -6128441080195691756
+    second: TileE-OutsideTown_99
+  - first:
+      213: 4107182976684628829
+    second: TileE-OutsideTown_100
+  - first:
+      213: -5573354729207854465
+    second: TileE-OutsideTown_101
+  - first:
+      213: -8479204156654146354
+    second: TileE-OutsideTown_102
+  - first:
+      213: 5994614760515965409
+    second: TileE-OutsideTown_103
+  - first:
+      213: 1354267442228514574
+    second: TileE-OutsideTown_104
+  - first:
+      213: 5600908246299472270
+    second: TileE-OutsideTown_105
+  - first:
+      213: 763725780306796926
+    second: TileE-OutsideTown_106
+  - first:
+      213: 3937142251564155785
+    second: TileE-OutsideTown_107
+  - first:
+      213: -1058014947737100149
+    second: TileE-OutsideTown_108
+  - first:
+      213: -652890233810148987
+    second: TileE-OutsideTown_109
+  - first:
+      213: 6724687249518084003
+    second: TileE-OutsideTown_110
+  - first:
+      213: 291081034420915456
+    second: TileE-OutsideTown_111
+  - first:
+      213: 7076921141740933332
+    second: TileE-OutsideTown_112
+  - first:
+      213: -5389835364537777464
+    second: TileE-OutsideTown_113
+  - first:
+      213: -5097109378413829478
+    second: TileE-OutsideTown_114
+  - first:
+      213: 7642958502255352196
+    second: TileE-OutsideTown_115
+  - first:
+      213: 377042688396491161
+    second: TileE-OutsideTown_116
+  - first:
+      213: 9131031593124592337
+    second: TileE-OutsideTown_117
+  - first:
+      213: 4877200240062207962
+    second: TileE-OutsideTown_118
+  - first:
+      213: 5230341201912739952
+    second: TileE-OutsideTown_119
+  - first:
+      213: -9174559786896159055
+    second: TileE-OutsideTown_120
+  - first:
+      213: 210663030638240555
+    second: TileE-OutsideTown_121
+  - first:
+      213: 6439648179093124022
+    second: TileE-OutsideTown_122
+  - first:
+      213: -521661090477282972
+    second: TileE-OutsideTown_123
+  - first:
+      213: 7573634812610194203
+    second: TileE-OutsideTown_124
+  - first:
+      213: 152481933808388864
+    second: TileE-OutsideTown_125
+  - first:
+      213: -6412237945567874189
+    second: TileE-OutsideTown_126
+  - first:
+      213: -1638248714983026830
+    second: TileE-OutsideTown_127
+  - first:
+      213: -6720066614270704649
+    second: TileE-OutsideTown_128
+  - first:
+      213: -7723964009101492087
+    second: TileE-OutsideTown_129
+  - first:
+      213: -3386857823568038560
+    second: TileE-OutsideTown_130
+  - first:
+      213: -2334096939908727057
+    second: TileE-OutsideTown_131
+  - first:
+      213: -4081418053758961981
+    second: TileE-OutsideTown_132
+  - first:
+      213: -8793406033105085386
+    second: TileE-OutsideTown_133
+  - first:
+      213: -7193985581609422492
+    second: TileE-OutsideTown_134
+  - first:
+      213: -7045609938799288494
+    second: TileE-OutsideTown_135
+  - first:
+      213: -1768054610603777469
+    second: TileE-OutsideTown_136
+  - first:
+      213: 4116389708279374491
+    second: TileE-OutsideTown_137
+  - first:
+      213: 2249688778561767035
+    second: TileE-OutsideTown_138
+  - first:
+      213: -7967649976624541347
+    second: TileE-OutsideTown_139
+  - first:
+      213: 284802919128751590
+    second: TileE-OutsideTown_140
+  - first:
+      213: 2380292421908880707
+    second: TileE-OutsideTown_141
+  - first:
+      213: 8744204803633694844
+    second: TileE-OutsideTown_142
+  - first:
+      213: 1530004773196293572
+    second: TileE-OutsideTown_143
+  - first:
+      213: -7302133778297680812
+    second: TileE-OutsideTown_144
+  - first:
+      213: -6167819353919434991
+    second: TileE-OutsideTown_145
+  - first:
+      213: -7309634415035527958
+    second: TileE-OutsideTown_146
+  - first:
+      213: 6215431065249797702
+    second: TileE-OutsideTown_147
+  - first:
+      213: -6404648830142624945
+    second: TileE-OutsideTown_148
+  - first:
+      213: 6220443942379836199
+    second: TileE-OutsideTown_149
+  - first:
+      213: 1662623563413778949
+    second: TileE-OutsideTown_150
+  - first:
+      213: -7648715258397180510
+    second: TileE-OutsideTown_151
+  - first:
+      213: -788018813535509911
+    second: TileE-OutsideTown_152
+  - first:
+      213: 3938439372987076418
+    second: TileE-OutsideTown_153
+  - first:
+      213: 785022285443089695
+    second: TileE-OutsideTown_154
+  - first:
+      213: 1009079377964960930
+    second: TileE-OutsideTown_155
+  - first:
+      213: 956761540617794157
+    second: TileE-OutsideTown_156
+  - first:
+      213: -5536633297701270459
+    second: TileE-OutsideTown_157
+  - first:
+      213: 3092565116578353682
+    second: TileE-OutsideTown_158
+  - first:
+      213: 7691230335827778154
+    second: TileE-OutsideTown_159
+  - first:
+      213: -8778483464691322680
+    second: TileE-OutsideTown_160
+  - first:
+      213: 7066981266082828465
+    second: TileE-OutsideTown_161
+  - first:
+      213: 2466046714273065288
+    second: TileE-OutsideTown_162
+  - first:
+      213: -8821838620048483425
+    second: TileE-OutsideTown_163
+  - first:
+      213: 2768687237789416825
+    second: TileE-OutsideTown_164
+  - first:
+      213: 8704444669189078685
+    second: TileE-OutsideTown_165
+  - first:
+      213: 2948184834238262165
+    second: TileE-OutsideTown_166
+  - first:
+      213: -3789926924489500518
+    second: TileE-OutsideTown_167
+  - first:
+      213: -4075162909611612566
+    second: TileE-OutsideTown_168
+  - first:
+      213: -1303915107038154864
+    second: TileE-OutsideTown_169
+  - first:
+      213: -1032794091459709831
+    second: TileE-OutsideTown_170
+  - first:
+      213: 578512277124907872
+    second: TileE-OutsideTown_171
+  - first:
+      213: -2350302372603693293
+    second: TileE-OutsideTown_172
+  - first:
+      213: 2316583663679171413
+    second: TileE-OutsideTown_173
+  - first:
+      213: 3997592817855341337
+    second: TileE-OutsideTown_174
+  - first:
+      213: -609373393002033260
+    second: TileE-OutsideTown_175
+  - first:
+      213: 887136610475882279
+    second: TileE-OutsideTown_176
+  - first:
+      213: -5129737588390584214
+    second: TileE-OutsideTown_177
+  - first:
+      213: 4378492182864031365
+    second: TileE-OutsideTown_178
+  - first:
+      213: -5164819951174819797
+    second: TileE-OutsideTown_179
+  - first:
+      213: -7483281952432190712
+    second: TileE-OutsideTown_180
+  - first:
+      213: -4277100292909071075
+    second: TileE-OutsideTown_181
+  - first:
+      213: -9147923471235229621
+    second: TileE-OutsideTown_182
+  - first:
+      213: 3730177028697019600
+    second: TileE-OutsideTown_183
+  - first:
+      213: 33889288582849622
+    second: TileE-OutsideTown_184
+  - first:
+      213: 6318549017352480430
+    second: TileE-OutsideTown_185
+  - first:
+      213: 8732536068810355556
+    second: TileE-OutsideTown_186
+  - first:
+      213: -1393880843521593367
+    second: TileE-OutsideTown_187
+  - first:
+      213: -258311544736560052
+    second: TileE-OutsideTown_188
+  - first:
+      213: -7331659021644306599
+    second: TileE-OutsideTown_189
+  - first:
+      213: 7100032214401536652
+    second: TileE-OutsideTown_190
+  - first:
+      213: -3771705308738210944
+    second: TileE-OutsideTown_191
+  - first:
+      213: 136497079401436100
+    second: TileE-OutsideTown_192
+  - first:
+      213: -1040133672966765479
+    second: TileE-OutsideTown_193
+  - first:
+      213: 1077713257081148945
+    second: TileE-OutsideTown_194
+  - first:
+      213: 7241343029751136662
+    second: TileE-OutsideTown_195
+  - first:
+      213: 1424246270181030954
+    second: TileE-OutsideTown_196
+  - first:
+      213: -369066119659261989
+    second: TileE-OutsideTown_197
+  - first:
+      213: 7085763099032757056
+    second: TileE-OutsideTown_198
+  - first:
+      213: -9005302689491749377
+    second: TileE-OutsideTown_199
+  - first:
+      213: 3736252261273751434
+    second: TileE-OutsideTown_200
+  - first:
+      213: -7847780218265987430
+    second: TileE-OutsideTown_201
+  - first:
+      213: 7566402779338812607
+    second: TileE-OutsideTown_202
+  - first:
+      213: -4010934822496679301
+    second: TileE-OutsideTown_203
+  - first:
+      213: 436508033092908662
+    second: TileE-OutsideTown_204
+  - first:
+      213: 1329565712385667987
+    second: TileE-OutsideTown_205
+  - first:
+      213: -92526203622539727
+    second: TileE-OutsideTown_206
+  - first:
+      213: 7804211050119953768
+    second: TileE-OutsideTown_207
+  - first:
+      213: 8622198154855747441
+    second: TileE-OutsideTown_208
+  - first:
+      213: -6117109899983479171
+    second: TileE-OutsideTown_209
+  - first:
+      213: 8201940748124086811
+    second: TileE-OutsideTown_210
+  - first:
+      213: 8410423284762137019
+    second: TileE-OutsideTown_211
+  - first:
+      213: 2431969183702983431
+    second: TileE-OutsideTown_212
+  - first:
+      213: -3165804661622488197
+    second: TileE-OutsideTown_213
+  - first:
+      213: 4803419983601738659
+    second: TileE-OutsideTown_214
+  - first:
+      213: -6470638232231524898
+    second: TileE-OutsideTown_215
+  - first:
+      213: -2017893769324484252
+    second: TileE-OutsideTown_216
+  - first:
+      213: 8650904216729950907
+    second: TileE-OutsideTown_217
+  - first:
+      213: 1562195767385530960
+    second: TileE-OutsideTown_218
+  - first:
+      213: -7175345771415709072
+    second: TileE-OutsideTown_219
+  - first:
+      213: 3501494239978247697
+    second: TileE-OutsideTown_220
+  - first:
+      213: 1800256211724790171
+    second: TileE-OutsideTown_221
+  - first:
+      213: -7147494763069514321
+    second: TileE-OutsideTown_222
+  - first:
+      213: -1929588614885153452
+    second: TileE-OutsideTown_223
+  - first:
+      213: 6660858092308170351
+    second: TileE-OutsideTown_224
+  - first:
+      213: -2010522691119963162
+    second: TileE-OutsideTown_225
+  - first:
+      213: 5238510543670764287
+    second: TileE-OutsideTown_226
+  - first:
+      213: -3656591405057683022
+    second: TileE-OutsideTown_227
+  - first:
+      213: 7090839675465219030
+    second: TileE-OutsideTown_228
+  - first:
+      213: 289552113805135280
+    second: TileE-OutsideTown_229
+  - first:
+      213: -8957887081563221589
+    second: TileE-OutsideTown_230
+  - first:
+      213: -3883050173471604675
+    second: TileE-OutsideTown_231
+  - first:
+      213: 4532799597822935414
+    second: TileE-OutsideTown_232
+  - first:
+      213: -4351090615608436284
+    second: TileE-OutsideTown_233
+  - first:
+      213: 2546494854003054744
+    second: TileE-OutsideTown_234
+  - first:
+      213: -4466109094463010419
+    second: TileE-OutsideTown_235
+  - first:
+      213: -7352651232529829246
+    second: TileE-OutsideTown_236
+  - first:
+      213: -591271312267419821
+    second: TileE-OutsideTown_237
+  - first:
+      213: 5760530459330744791
+    second: TileE-OutsideTown_238
+  - first:
+      213: 8131964901777872740
+    second: TileE-OutsideTown_239
+  - first:
+      213: 6653972537931638323
+    second: TileE-OutsideTown_240
+  - first:
+      213: -3097528428936267785
+    second: TileE-OutsideTown_241
+  - first:
+      213: -6300519074753896862
+    second: TileE-OutsideTown_242
+  - first:
+      213: 3051452946742333306
+    second: TileE-OutsideTown_243
+  - first:
+      213: -1819106986110451449
+    second: TileE-OutsideTown_244
+  - first:
+      213: 5125731387858198722
+    second: TileE-OutsideTown_245
+  - first:
+      213: -9001518039253882548
+    second: TileE-OutsideTown_246
+  - first:
+      213: -1556668727711115468
+    second: TileE-OutsideTown_247
+  - first:
+      213: -7136484912249312221
+    second: TileE-OutsideTown_248
+  - first:
+      213: -7807277295597433042
+    second: TileE-OutsideTown_249
+  - first:
+      213: 9151819926421929381
+    second: TileE-OutsideTown_250
+  - first:
+      213: -1845019275572066301
+    second: TileE-OutsideTown_251
+  - first:
+      213: 1843853099424284229
+    second: TileE-OutsideTown_252
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileE-OutsideTown_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f619c098eee8ebe4a9550e2ee0ebce50
+      internalID: -5273218872601841128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d58061bfbe19a4419e48b05dea5854e
+      internalID: -9036631607145465285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5d4e0e5293ae444a755fa2854802c1
+      internalID: -10228934443202592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef01deda90ff9499c6b844d280dd09
+      internalID: 131245512477502028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5089d8903b81aa4ab9e34bf991dabe2
+      internalID: 2175487072121210691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11249dfed9014b14b8cdc33419257cca
+      internalID: 951398666372839921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8babedc095e054e8ba110a14c59bac
+      internalID: -1685372986730529372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd990ee498ff5f4d822b31798e7e65f
+      internalID: -5520794978875519847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac36f4902239ea4080ba04733533ab4
+      internalID: -5903826853559525565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868b22945b32f7e4faf9ccb5a4e13f93
+      internalID: -8382136801434116805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593379fb1684e0a4eb045467718b6077
+      internalID: 4849654087491376715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9913ebcbb651b494791d8b568cf0e34d
+      internalID: -1179337952073660629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_12
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc45bfa292f77740a23f343a5799025
+      internalID: -3152388342919608316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d33f91b2fa79a849ac3eb31c69f1f77
+      internalID: -1850846296078371142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8022a7bb95b73489a2c6b08776cad8
+      internalID: -779240315473111717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d6169c51d01c408d1c7e491a10516
+      internalID: 6872206259505408085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f074b5fcbd7944b457117f7a219f0
+      internalID: 4617360813272349139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe9817bd92823b4eb490bae4560df08
+      internalID: -1312288729962121753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355188a45ef59d245aa8fe84c8b369b3
+      internalID: -9100919039184022559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe69cb647933374bbe6085b26b6593a
+      internalID: -4649516075125805950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f311ff00a849b44a00b0efffe7ffa3
+      internalID: 2570051616171637785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cab6c07029c99048896abb58f562a64
+      internalID: 4050934600974421271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2795e49c3c2be7c4cb883dace1a7d6fa
+      internalID: -1909867537955759707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3fd4a46fa34ca43acce8ce9e99847a
+      internalID: -1666664875807175435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9c61dadf0f3f44a0d5abe3822269d
+      internalID: -7334517636819894212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55cdb21a8d4908448633f9744a91b39
+      internalID: 4087742827386394650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d817476b32e49364c9a6cc34d834bcc1
+      internalID: 2120372960182625058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c48cfb4ef9c6f49b333aff85689244
+      internalID: 1494751652296610946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_28
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5aac10f03a8a244b26e209949c320b
+      internalID: 244886718481943355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f82750c1cb6f444a392e2a40d4dc37
+      internalID: 5554596956269195722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_30
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b183720278c72cc48a8c18327985975a
+      internalID: -1054330348696720988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90832baefb827ac419fc2510e63eaff3
+      internalID: -3235470950149642266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d475c0754a58414fabcd6d813e512af
+      internalID: -2708533610866828848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303576a5372302b4f9ad998dc0dfd734
+      internalID: -1562451876254960973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85679ae69c418e34684441349da776ed
+      internalID: 2264575567605039684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4086146cf35ff4dba6a8d32508b9aa
+      internalID: 2403466664795920168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c8c7e834ce1ed47a7072e26a89507c
+      internalID: -1058584281943640420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b667331561a1184db329ab4cbba9ffc
+      internalID: 4153479453541543258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c6e0a7564c2db489d865272ddf08bc
+      internalID: 4455448885697820605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1ee3100262ca84da6580040a0ec9b1
+      internalID: 2762527797806906494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f3e93cddabdf4ca1e7aacb0daeca2
+      internalID: 3945773967715660908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5e0ff2fcd52c74ead22e2cde33cc7f
+      internalID: -6708145826357636711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_42
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc85609e7d40454da5d07d3283c0b75
+      internalID: -4553321089548570965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b21e87af693d4fb65b3e26ae03214
+      internalID: -6956565944477627761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_44
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bcbc6a52be80744afe9aa345f72127
+      internalID: 6326590183372790666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0514acbd0f57d6041b20b8b38585c84e
+      internalID: -4432609824532945862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b412b5cc8c5874f9fc290a7f90f9a3
+      internalID: 1783160708545010218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f34d7032fb99fd429373670b2c23713
+      internalID: 4576802368851774420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192f0455c7e8fc49969b46cc3eac707
+      internalID: 9041049041350075298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989ac3c920e0f9d479382815a7d50251
+      internalID: -7031682014982816450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431d2b65ad4855749ac9412e7f5f048a
+      internalID: 2188900522469287474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8bee0dbfd061b41b5eab9af7b3b607
+      internalID: 8635426661493357364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc51044448e524984a9cd6bdfa9bb4
+      internalID: -5073341886287241540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db96ace871b4a409fc15bfa9d74e56
+      internalID: 9008197593349922268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ec2b92e4bc0e24aaed80b5fcbe6dd5
+      internalID: -3769611512080936776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e275e2e9e73fe4cbab35f2480ae8cb
+      internalID: 3884499357824279426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_56
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccbdb2a516f4af4a94a9774c3e3fcb8
+      internalID: -3443343146330345681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b11a6e3267b5a408ad44c239199898
+      internalID: 1506848899360885300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_58
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d71549920bbfa4b9cf6ec799b22a6b
+      internalID: -7179096542789279869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585cdcda9c22f6b46a75d1c4ef7f3b49
+      internalID: 1752665217531788542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_60
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50155c90f1503a46ae281aac48c815a
+      internalID: -2675648233855217997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_61
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380cbdc1bd6ff784fbc79683e6d8f3d7
+      internalID: -1008214703425744754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_62
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e66190e4fea9641bb054f3a4be572e
+      internalID: -2993962043962973922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f470ade48be172d44a893d705c1b84a3
+      internalID: -5950029690066838237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456f72d20837ff4fbaec618ef0b1666
+      internalID: 6912498879482463718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4929f7c4285f2a8469fdf0dc7291f830
+      internalID: -5521584348656828815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7baa58148b7f0b46a8f2d4402a9e991
+      internalID: -4971587362479959070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83307321699a7784cb4ca87d4e79c2e9
+      internalID: 1648718318654160447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3068a41475b05478fc63c35ad79764
+      internalID: 7025457407040788398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e2065449a2d094e8783def5941620a
+      internalID: -6945377082570600724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b2939b795525c4b8b28c8070a6ef05
+      internalID: -5528952007706481777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5865005777c154ba2c7fc22905b862
+      internalID: 7759378608709281345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116d8825df1ba8b459a08a3b6f636b00
+      internalID: -2468764163160714074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef914ff6782a540ade51d76d66bc57
+      internalID: -3484838838089182203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_74
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453e6954f056a6749b20d27eec621c4c
+      internalID: 2978984194609311495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df3f7f8d1f5bd246add7d978a449b9e
+      internalID: 1813378181831912552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_76
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f41a6c248f5e94b880aaa94955062c
+      internalID: -3461467730792109912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d98772be1c2f3049bae67b5708ec520
+      internalID: -6377840936275448277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf2cbb2ee7c86f47a61e6f8d2701273
+      internalID: 5492581979582580677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0884ef1b88a97514983017fbe05560d7
+      internalID: 6065333021313038286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56715cc951ce36f429f29ddf6952817c
+      internalID: 7560626893258102080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a262907b7c929e4e9a16bf8021d7e0d
+      internalID: -2960053122830000386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c42c50d7c2aa849874983cbcc62435
+      internalID: 8931364029714434740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff55cb90466787d46a2319d747894589
+      internalID: 9066670634818012984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f1584982baf7498c5527b9a29bba4
+      internalID: 2701634063020462212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae8e4ac44388c3468b3e2fc835aa8e8
+      internalID: -3085838274623189199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11699abb56915c84aa9be30899a7641c
+      internalID: -7094072274266635721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af3b06a0b06d14680854ff972294e5
+      internalID: 6577106258529855830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd61bf69b8f0f6e42914e02e402b0e1b
+      internalID: 6514161335849158301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c441eca2efb17054fadb6d457ed5464f
+      internalID: -7113988686962809365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_90
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c6ca87d3016874589329d025e47c5e
+      internalID: 3715244465096968301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_91
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac0fc6900954846a7aa90c14cfae35
+      internalID: 4020652649561922887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_92
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f309e4e9bbedbce47ac5861e7924f3f8
+      internalID: 1929629888732053032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05861c9097c4d054b949bf8ef1e0bbbd
+      internalID: -5829740297879718524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a38b6aa3b8a0e4db761c9eb38906be
+      internalID: -8606323220329179217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733e9647f51d6194a9aa166d0a784365
+      internalID: 5103912778954933262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ad8f6ba5418241a796db04f31c070
+      internalID: 264011103903503420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536e39fcdaaa8284085fac9b0b339c59
+      internalID: 2320711146564166355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62815114f3e944ab13130e16301564
+      internalID: 2371812681494367440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede41fb25a2e7b43b13af2874163040
+      internalID: -6128441080195691756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91926e5744cd46b4992cc7a712bbfdf4
+      internalID: 4107182976684628829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b7fe3e405a58c4eb6c49a8162ad5cc
+      internalID: -5573354729207854465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_102
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd4a9187f04d240b1d5ad3a0b4b795
+      internalID: -8479204156654146354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b986cf56ccaa74e9573798f58d8474
+      internalID: 5994614760515965409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_104
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377fd93fd75ba284a8253a11a4793b48
+      internalID: 1354267442228514574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_105
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7da9e4b38932f4eb9286996639acf3
+      internalID: 5600908246299472270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_106
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c001ce799e0a07f438a671bf48106d7c
+      internalID: 763725780306796926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3181ddd72c5627e48ac546d088816ce2
+      internalID: 3937142251564155785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_108
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c75f60c38d2e41ace71b10cabf79d
+      internalID: -1058014947737100149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_109
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4238bdb4c3dd4f8f7aa807f63d029
+      internalID: -652890233810148987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_110
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c46acbfce5a2a54986b1e7cf1cf8e60
+      internalID: 6724687249518084003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d844b1408bc9498ef60057743a7a5
+      internalID: 291081034420915456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_112
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011a3eea019a96a4189ead4b02a22422
+      internalID: 7076921141740933332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9727fba1cda34c877fba5c07d3b17
+      internalID: -5389835364537777464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb418cc145982284ca9520a248dadac8
+      internalID: -5097109378413829478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2e703147fe2ae46ab7b96f3ddfe3ca
+      internalID: 7642958502255352196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0157b48552115b041942ab9c5b3ec6c1
+      internalID: 377042688396491161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_117
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cef04ceed1c9f4b862c9f10672a007
+      internalID: 9131031593124592337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35385f1c7f606946bcaabccf45b8dd3
+      internalID: 4877200240062207962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_119
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cda3ad558cf9d4e80e3880b955e734
+      internalID: 5230341201912739952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_120
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c2424947da72d479e41367a9a23afe
+      internalID: -9174559786896159055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_121
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0999cb915b38c4584237ffc69c4f71
+      internalID: 210663030638240555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_122
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da431be82b8818444b05e54b3ac97c62
+      internalID: 6439648179093124022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_123
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf600978a1a7cf14ea6c2cfbab721771
+      internalID: -521661090477282972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_124
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73f87e7635416149ab42302b0caafc1
+      internalID: 7573634812610194203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_125
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dc14fecacbcb442b93238a0bc80bc5
+      internalID: 152481933808388864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe5165b457ccf4081f12d88a53fefc
+      internalID: -6412237945567874189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_127
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e919fb6f97b0d147b06796676a471ed
+      internalID: -1638248714983026830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac857234129af374db9cb1119eebafc9
+      internalID: -6720066614270704649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca94cbf54337974d866f93e9be88e32
+      internalID: -7723964009101492087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c513f1c950f5fe45971281155e4a3f9
+      internalID: -3386857823568038560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0786d669aabdf4591ffcd3e825ceca
+      internalID: -2334096939908727057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_132
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce230b3d60c4cd64599644d822b4bc53
+      internalID: -4081418053758961981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_133
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0c681baecf4bd44a361fa5c15b93cb
+      internalID: -8793406033105085386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a2f95c82bd4aa44a7007777f670af8
+      internalID: -7193985581609422492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_135
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0d8774fd4db3e4193042e7245c4a39
+      internalID: -7045609938799288494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3235e0ca36f7fec4785da039feb4d1ee
+      internalID: -1768054610603777469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_137
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e28d7c542b7ce643bee10114766dc87
+      internalID: 4116389708279374491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2391889a18c77af44a4596688894961c
+      internalID: 2249688778561767035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_139
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2377012c08eae7245bb9e13820b68ab8
+      internalID: -7967649976624541347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_140
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54f218bd6fcb414aa27e64ed0595d88
+      internalID: 284802919128751590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_141
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb30c92f017471241b0363500c2c7f83
+      internalID: 2380292421908880707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743666154061d0741b4735efd3fce9fe
+      internalID: 8744204803633694844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e8e62a03cfd8c4e851c1388c2247d1
+      internalID: 1530004773196293572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c1612fc9610346aa8131ec3577b70
+      internalID: -7302133778297680812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfa78a1d5a5e2d4796bb48009562914
+      internalID: -6167819353919434991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f13206cf2dc6af42a0f0e672c15aa45
+      internalID: -7309634415035527958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d86f79b2175696408f79d56102732b3
+      internalID: 6215431065249797702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc7532f265d91746a3d3e0dae15278c
+      internalID: -6404648830142624945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_149
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a975ee1eb23ef41a2315139ca15d89
+      internalID: 6220443942379836199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63709ab172e20dc4db4ab410794024d2
+      internalID: 1662623563413778949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_151
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e15193bfc9f74488e05f9e5f0186c
+      internalID: -7648715258397180510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_152
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc77b7e0f890424c992f4b2bf5fecf3
+      internalID: -788018813535509911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e2edb8def7a5644a55bee8565e62af
+      internalID: 3938439372987076418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_154
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c35d03698468ae4fb5ae18028911c87
+      internalID: 785022285443089695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_155
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96b5863ba1b914cba4fff02c847f50
+      internalID: 1009079377964960930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_156
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84f92b7768255f4fa8bfcacd38a44a7
+      internalID: 956761540617794157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f18e413cf6063146a7546c4d0dcc20f
+      internalID: -5536633297701270459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_158
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bbe81a00110df44944e448375488a0
+      internalID: 3092565116578353682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809e65166e533b54f8f58ea8197c7df7
+      internalID: 7691230335827778154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_160
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12232015ec09ae34a9d2b512a67494e2
+      internalID: -8778483464691322680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_161
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ae155c0362d6b40bacff39474ac52e
+      internalID: 7066981266082828465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_162
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f181d20583f3e19479b48cede094344c
+      internalID: 2466046714273065288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2eb294d2efa464c9ce2376390643e1
+      internalID: -8821838620048483425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_164
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8276e6aad4dbc940b5a10310cf59d32
+      internalID: 2768687237789416825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05e048f7163d7e4397c395cb8889e55
+      internalID: 8704444669189078685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_166
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8db1ef9d448775488278fb27090bdc7
+      internalID: 2948184834238262165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_167
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25794a53ef642d846aa00ecf226867ea
+      internalID: -3789926924489500518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_168
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f3a41d8ec2d534a8c9d1a36ec0ea3d
+      internalID: -4075162909611612566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9062a564afdf7446846e95bc5717109
+      internalID: -1303915107038154864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_170
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16a6ac044e81aa42a1ce9a8a4e5e6d4
+      internalID: -1032794091459709831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_171
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc50c3c25503334d8e6d6a158171f11
+      internalID: 578512277124907872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_172
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eabe73cf2df9945b099adc21a01969
+      internalID: -2350302372603693293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452e39bfd25c6dd4ea66061c5dc77831
+      internalID: 2316583663679171413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_174
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904c84a12b9d53c4e958e055865316c2
+      internalID: 3997592817855341337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_175
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede1e0dbfab82b459cdcb0b40ff804e
+      internalID: -609373393002033260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_176
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07242c8aed44dc24e9cd82c9b5e86e5f
+      internalID: 887136610475882279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7862d9c9c21bd6448b07a33e31b4089
+      internalID: -5129737588390584214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_178
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060312ee69965124895433a894796b87
+      internalID: 4378492182864031365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07fa877c35fb7d459f3202e000d9c73
+      internalID: -5164819951174819797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_180
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d992f38eb29720f4eb798cf434e16747
+      internalID: -7483281952432190712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_181
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7cc98636bab73428a6635cc2e3a137
+      internalID: -4277100292909071075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_182
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a2b5c4f6bc80243940a688435fdfbc
+      internalID: -9147923471235229621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_183
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ba17b0e485d654cb7ec0e588fa0382
+      internalID: 3730177028697019600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_184
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd31afa2d4690641acf97bd38f36ecc
+      internalID: 33889288582849622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_185
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678415d4130c1054abe1d989521b4454
+      internalID: 6318549017352480430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_186
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e67420614c45e459a34b4a5a7dd934
+      internalID: 8732536068810355556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_187
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6479b211cf164140861e9c0a6e51983
+      internalID: -1393880843521593367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_188
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3191e944a1bd048ba004f99af314b5
+      internalID: -258311544736560052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03944a9aca392b4ea2fc83062a59c38
+      internalID: -7331659021644306599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_190
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d048a38966e39949b33778480d23359
+      internalID: 7100032214401536652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_191
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61df9fc614e8544c96e2b0ae015e2f7
+      internalID: -3771705308738210944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_192
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0022605e72a7404a9ae89bd5fea4c67
+      internalID: 136497079401436100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_193
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc969bbd75aff19458670021f8aeb014
+      internalID: -1040133672966765479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_194
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df21fe2aae60821409afe93bbbfb6b9d
+      internalID: 1077713257081148945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_195
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029eeca61c0af7b4292b018c5c7d99b4
+      internalID: 7241343029751136662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_196
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10c2bff76820e4ab4d7b7ba0d2660a
+      internalID: 1424246270181030954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_197
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c2c5356dc5f349abdde36922c65b5
+      internalID: -369066119659261989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_198
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198ca2678a8bb674b94a788adad48767
+      internalID: 7085763099032757056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_199
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f14ea8e7d84af4a92564f00c7a3d1a
+      internalID: -9005302689491749377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_200
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90775eeaacc93eb44b0d04e931c19c75
+      internalID: 3736252261273751434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9783dbac9a845704abaae25cf6f33a98
+      internalID: -7847780218265987430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_202
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d72a758e1c5414889e56a21e549157
+      internalID: 7566402779338812607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_203
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c33711a90e4f2941990c817cfcb2c6e
+      internalID: -4010934822496679301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_204
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625cbd5260d9bfe458b8b9d5ca97a9d0
+      internalID: 436508033092908662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1603fbf126c06474481db69a6fe9ee67
+      internalID: 1329565712385667987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_206
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d35a58da75da2a4c9426f8aa5326ffd
+      internalID: -92526203622539727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_207
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c73f25bf233084eb1f5058b01a38a5
+      internalID: 7804211050119953768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_208
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149c87ceb26dcee43bd7cc14177d82e4
+      internalID: 8622198154855747441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_209
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9921f758fdb79e42a297887f1ef316b
+      internalID: -6117109899983479171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_210
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952bbf89140578242acd8cc4348e1049
+      internalID: 8201940748124086811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_211
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1092507fb637d5b46926ac6cbd5637ee
+      internalID: 8410423284762137019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_212
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019bf396c3091d34b9dbf85410b64244
+      internalID: 2431969183702983431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_213
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162c01618efcf6e4e89ea71d2c4870ca
+      internalID: -3165804661622488197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_214
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe8eac30b0a92a46b3a61b1b3994daa
+      internalID: 4803419983601738659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_215
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0273138a624932749885df0908534e18
+      internalID: -6470638232231524898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_216
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3a2521d74d55948b41e66b6aa8e26a
+      internalID: -2017893769324484252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab5c6e667ac3824390634cf9c3cb679
+      internalID: 8650904216729950907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_218
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57359b5b108930947adfcb570e577db9
+      internalID: 1562195767385530960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_219
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da74e1a422d585b47a0f80a770a48784
+      internalID: -7175345771415709072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_220
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e79e5954405d44b8fdd481f1571e3e
+      internalID: 3501494239978247697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03d0d84156ec44e94ca7da2c3f61a7
+      internalID: 1800256211724790171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_222
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088fd56c4f4aae6459387987db6a85dc
+      internalID: -7147494763069514321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad980bfea39f7f40a94aada60c0576c
+      internalID: -1929588614885153452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_224
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dbf8837747b1e469b4f0f54d43fbfe
+      internalID: 6660858092308170351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_225
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c48cea35d1f34d9412f2d43a50448
+      internalID: -2010522691119963162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_226
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b95e54d4a678d04b96b1e87da6c88a9
+      internalID: 5238510543670764287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_227
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb70f27b856074fa050bbcff043075
+      internalID: -3656591405057683022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_228
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17592473641c10b4d827a8b58c52bb92
+      internalID: 7090839675465219030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_229
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cc800ec2257c444be4889f3bd95677
+      internalID: 289552113805135280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_230
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ee77f5d75b5c0469a572150f66ab99
+      internalID: -8957887081563221589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_231
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110110478e800ff4c8c0be66f17be716
+      internalID: -3883050173471604675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_232
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7518dc65e4c1ca7409196ef46de4e7bb
+      internalID: 4532799597822935414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e87b9ea4221e948a71f7042e8cb819
+      internalID: -4351090615608436284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_234
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e2628788d158f4db44fff53c3e2821
+      internalID: 2546494854003054744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_235
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c60456ffed004ebdeb9642960cb89
+      internalID: -4466109094463010419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_236
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f632d8125364472478f6e5dee51b54f7
+      internalID: -7352651232529829246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277ef4856c8b5174b863bffd76e3fce1
+      internalID: -591271312267419821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_238
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e010cc9372743ab48a98afbb4d6fa670
+      internalID: 5760530459330744791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_239
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e640557d3491359448e244cde74c3350
+      internalID: 8131964901777872740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_240
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3849f77e29ef24bb05bf6511e53b2a
+      internalID: 6653972537931638323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_241
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b308964ee48ea47b51744adfca85f6
+      internalID: -3097528428936267785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_242
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e0b40fafa882f429c9db16409b45af
+      internalID: -6300519074753896862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_243
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b32d7ce67406a4389cf7fefd4bb476
+      internalID: 3051452946742333306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_244
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d50cb2cb1508ed438ba4d3b93dbf976
+      internalID: -1819106986110451449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_245
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c8de3ad2f81204da6f877ee449f3fb
+      internalID: 5125731387858198722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_246
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2ec68c624d6244b2c578757a264e3
+      internalID: -9001518039253882548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_247
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c7c8fb445a5446ae1fcbaf0498608
+      internalID: -1556668727711115468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_248
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056b7ac7fe9695541b9c911ad1d19b33
+      internalID: -7136484912249312221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_249
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3280af2383f384448d56b3bd3f8b95a
+      internalID: -7807277295597433042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_250
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baab537b9c033147bec42fa42fc97d1
+      internalID: 9151819926421929381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_251
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77faf3ff538d75d4c9b324350927a3fb
+      internalID: -1845019275572066301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileE-OutsideTown_252
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c544358e27778499f3a252d7b9eb5e
+      internalID: 1843853099424284229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TileE-OutsideTown_138: 2249688778561767035
+      TileE-OutsideTown_190: 7100032214401536652
+      TileE-OutsideTown_125: 152481933808388864
+      TileE-OutsideTown_149: 6220443942379836199
+      TileE-OutsideTown_152: -788018813535509911
+      TileE-OutsideTown_52: -5073341886287241540
+      TileE-OutsideTown_168: -4075162909611612566
+      TileE-OutsideTown_0: -5273218872601841128
+      TileE-OutsideTown_21: 4050934600974421271
+      TileE-OutsideTown_221: 1800256211724790171
+      TileE-OutsideTown_248: -7136484912249312221
+      TileE-OutsideTown_208: 8622198154855747441
+      TileE-OutsideTown_103: 5994614760515965409
+      TileE-OutsideTown_155: 1009079377964960930
+      TileE-OutsideTown_100: 4107182976684628829
+      TileE-OutsideTown_166: 2948184834238262165
+      TileE-OutsideTown_54: -3769611512080936776
+      TileE-OutsideTown_26: 2120372960182625058
+      TileE-OutsideTown_74: 2978984194609311495
+      TileE-OutsideTown_246: -9001518039253882548
+      TileE-OutsideTown_162: 2466046714273065288
+      TileE-OutsideTown_184: 33889288582849622
+      TileE-OutsideTown_11: -1179337952073660629
+      TileE-OutsideTown_244: -1819106986110451449
+      TileE-OutsideTown_243: 3051452946742333306
+      TileE-OutsideTown_127: -1638248714983026830
+      TileE-OutsideTown_205: 1329565712385667987
+      TileE-OutsideTown_93: -5829740297879718524
+      TileE-OutsideTown_199: -9005302689491749377
+      TileE-OutsideTown_122: 6439648179093124022
+      TileE-OutsideTown_218: 1562195767385530960
+      TileE-OutsideTown_63: -5950029690066838237
+      TileE-OutsideTown_84: 2701634063020462212
+      TileE-OutsideTown_211: 8410423284762137019
+      TileE-OutsideTown_77: -6377840936275448277
+      TileE-OutsideTown_185: 6318549017352480430
+      TileE-OutsideTown_206: -92526203622539727
+      TileE-OutsideTown_85: -3085838274623189199
+      TileE-OutsideTown_39: 2762527797806906494
+      TileE-OutsideTown_120: -9174559786896159055
+      TileE-OutsideTown_35: 2403466664795920168
+      TileE-OutsideTown_148: -6404648830142624945
+      TileE-OutsideTown_201: -7847780218265987430
+      TileE-OutsideTown_73: -3484838838089182203
+      TileE-OutsideTown_94: -8606323220329179217
+      TileE-OutsideTown_32: -2708533610866828848
+      TileE-OutsideTown_174: 3997592817855341337
+      TileE-OutsideTown_173: 2316583663679171413
+      TileE-OutsideTown_75: 1813378181831912552
+      TileE-OutsideTown_160: -8778483464691322680
+      TileE-OutsideTown_135: -7045609938799288494
+      TileE-OutsideTown_198: 7085763099032757056
+      TileE-OutsideTown_17: -1312288729962121753
+      TileE-OutsideTown_170: -1032794091459709831
+      TileE-OutsideTown_235: -4466109094463010419
+      TileE-OutsideTown_12: -3152388342919608316
+      TileE-OutsideTown_60: -2675648233855217997
+      TileE-OutsideTown_131: -2334096939908727057
+      TileE-OutsideTown_213: -3165804661622488197
+      TileE-OutsideTown_2: -10228934443202592
+      TileE-OutsideTown_231: -3883050173471604675
+      TileE-OutsideTown_222: -7147494763069514321
+      TileE-OutsideTown_240: 6653972537931638323
+      TileE-OutsideTown_18: -9100919039184022559
+      TileE-OutsideTown_150: 1662623563413778949
+      TileE-OutsideTown_76: -3461467730792109912
+      TileE-OutsideTown_204: 436508033092908662
+      TileE-OutsideTown_67: 1648718318654160447
+      TileE-OutsideTown_91: 4020652649561922887
+      TileE-OutsideTown_146: -7309634415035527958
+      TileE-OutsideTown_23: -1666664875807175435
+      TileE-OutsideTown_132: -4081418053758961981
+      TileE-OutsideTown_59: 1752665217531788542
+      TileE-OutsideTown_230: -8957887081563221589
+      TileE-OutsideTown_19: -4649516075125805950
+      TileE-OutsideTown_62: -2993962043962973922
+      TileE-OutsideTown_49: -7031682014982816450
+      TileE-OutsideTown_167: -3789926924489500518
+      TileE-OutsideTown_215: -6470638232231524898
+      TileE-OutsideTown_224: 6660858092308170351
+      TileE-OutsideTown_247: -1556668727711115468
+      TileE-OutsideTown_239: 8131964901777872740
+      TileE-OutsideTown_220: 3501494239978247697
+      TileE-OutsideTown_68: 7025457407040788398
+      TileE-OutsideTown_237: -591271312267419821
+      TileE-OutsideTown_188: -258311544736560052
+      TileE-OutsideTown_97: 2320711146564166355
+      TileE-OutsideTown_28: 244886718481943355
+      TileE-OutsideTown_1: -9036631607145465285
+      TileE-OutsideTown_134: -7193985581609422492
+      TileE-OutsideTown_164: 2768687237789416825
+      TileE-OutsideTown_178: 4378492182864031365
+      TileE-OutsideTown_86: -7094072274266635721
+      TileE-OutsideTown_207: 7804211050119953768
+      TileE-OutsideTown_202: 7566402779338812607
+      TileE-OutsideTown_111: 291081034420915456
+      TileE-OutsideTown_191: -3771705308738210944
+      TileE-OutsideTown_117: 9131031593124592337
+      TileE-OutsideTown_57: 1506848899360885300
+      TileE-OutsideTown_83: 9066670634818012984
+      TileE-OutsideTown_16: 4617360813272349139
+      TileE-OutsideTown_124: 7573634812610194203
+      TileE-OutsideTown_22: -1909867537955759707
+      TileE-OutsideTown_115: 7642958502255352196
+      TileE-OutsideTown_163: -8821838620048483425
+      TileE-OutsideTown_236: -7352651232529829246
+      TileE-OutsideTown_78: 5492581979582580677
+      TileE-OutsideTown_96: 264011103903503420
+      TileE-OutsideTown_41: -6708145826357636711
+      TileE-OutsideTown_177: -5129737588390584214
+      TileE-OutsideTown_51: 8635426661493357364
+      TileE-OutsideTown_47: 4576802368851774420
+      TileE-OutsideTown_40: 3945773967715660908
+      TileE-OutsideTown_95: 5103912778954933262
+      TileE-OutsideTown_4: 2175487072121210691
+      TileE-OutsideTown_79: 6065333021313038286
+      TileE-OutsideTown_88: 6514161335849158301
+      TileE-OutsideTown_217: 8650904216729950907
+      TileE-OutsideTown_251: -1845019275572066301
+      TileE-OutsideTown_20: 2570051616171637785
+      TileE-OutsideTown_92: 1929629888732053032
+      TileE-OutsideTown_209: -6117109899983479171
+      TileE-OutsideTown_245: 5125731387858198722
+      TileE-OutsideTown_119: 5230341201912739952
+      TileE-OutsideTown_142: 8744204803633694844
+      TileE-OutsideTown_219: -7175345771415709072
+      TileE-OutsideTown_61: -1008214703425744754
+      TileE-OutsideTown_112: 7076921141740933332
+      TileE-OutsideTown_216: -2017893769324484252
+      TileE-OutsideTown_130: -3386857823568038560
+      TileE-OutsideTown_143: 1530004773196293572
+      TileE-OutsideTown_175: -609373393002033260
+      TileE-OutsideTown_187: -1393880843521593367
+      TileE-OutsideTown_228: 7090839675465219030
+      TileE-OutsideTown_72: -2468764163160714074
+      TileE-OutsideTown_56: -3443343146330345681
+      TileE-OutsideTown_43: -6956565944477627761
+      TileE-OutsideTown_15: 6872206259505408085
+      TileE-OutsideTown_154: 785022285443089695
+      TileE-OutsideTown_24: -7334517636819894212
+      TileE-OutsideTown_147: 6215431065249797702
+      TileE-OutsideTown_189: -7331659021644306599
+      TileE-OutsideTown_192: 136497079401436100
+      TileE-OutsideTown_8: -5903826853559525565
+      TileE-OutsideTown_109: -652890233810148987
+      TileE-OutsideTown_227: -3656591405057683022
+      TileE-OutsideTown_44: 6326590183372790666
+      TileE-OutsideTown_238: 5760530459330744791
+      TileE-OutsideTown_64: 6912498879482463718
+      TileE-OutsideTown_203: -4010934822496679301
+      TileE-OutsideTown_156: 956761540617794157
+      TileE-OutsideTown_101: -5573354729207854465
+      TileE-OutsideTown_118: 4877200240062207962
+      TileE-OutsideTown_31: -3235470950149642266
+      TileE-OutsideTown_229: 289552113805135280
+      TileE-OutsideTown_214: 4803419983601738659
+      TileE-OutsideTown_172: -2350302372603693293
+      TileE-OutsideTown_140: 284802919128751590
+      TileE-OutsideTown_225: -2010522691119963162
+      TileE-OutsideTown_110: 6724687249518084003
+      TileE-OutsideTown_29: 5554596956269195722
+      TileE-OutsideTown_89: -7113988686962809365
+      TileE-OutsideTown_252: 1843853099424284229
+      TileE-OutsideTown_106: 763725780306796926
+      TileE-OutsideTown_157: -5536633297701270459
+      TileE-OutsideTown_145: -6167819353919434991
+      TileE-OutsideTown_193: -1040133672966765479
+      TileE-OutsideTown_9: -8382136801434116805
+      TileE-OutsideTown_169: -1303915107038154864
+      TileE-OutsideTown_105: 5600908246299472270
+      TileE-OutsideTown_81: -2960053122830000386
+      TileE-OutsideTown_69: -6945377082570600724
+      TileE-OutsideTown_171: 578512277124907872
+      TileE-OutsideTown_33: -1562451876254960973
+      TileE-OutsideTown_48: 9041049041350075298
+      TileE-OutsideTown_55: 3884499357824279426
+      TileE-OutsideTown_70: -5528952007706481777
+      TileE-OutsideTown_108: -1058014947737100149
+      TileE-OutsideTown_80: 7560626893258102080
+      TileE-OutsideTown_98: 2371812681494367440
+      TileE-OutsideTown_181: -4277100292909071075
+      TileE-OutsideTown_212: 2431969183702983431
+      TileE-OutsideTown_6: -1685372986730529372
+      TileE-OutsideTown_196: 1424246270181030954
+      TileE-OutsideTown_42: -4553321089548570965
+      TileE-OutsideTown_159: 7691230335827778154
+      TileE-OutsideTown_38: 4455448885697820605
+      TileE-OutsideTown_151: -7648715258397180510
+      TileE-OutsideTown_123: -521661090477282972
+      TileE-OutsideTown_136: -1768054610603777469
+      TileE-OutsideTown_180: -7483281952432190712
+      TileE-OutsideTown_195: 7241343029751136662
+      TileE-OutsideTown_197: -369066119659261989
+      TileE-OutsideTown_129: -7723964009101492087
+      TileE-OutsideTown_250: 9151819926421929381
+      TileE-OutsideTown_139: -7967649976624541347
+      TileE-OutsideTown_232: 4532799597822935414
+      TileE-OutsideTown_161: 7066981266082828465
+      TileE-OutsideTown_179: -5164819951174819797
+      TileE-OutsideTown_233: -4351090615608436284
+      TileE-OutsideTown_46: 1783160708545010218
+      TileE-OutsideTown_128: -6720066614270704649
+      TileE-OutsideTown_50: 2188900522469287474
+      TileE-OutsideTown_223: -1929588614885153452
+      TileE-OutsideTown_144: -7302133778297680812
+      TileE-OutsideTown_87: 6577106258529855830
+      TileE-OutsideTown_165: 8704444669189078685
+      TileE-OutsideTown_116: 377042688396491161
+      TileE-OutsideTown_210: 8201940748124086811
+      TileE-OutsideTown_65: -5521584348656828815
+      TileE-OutsideTown_114: -5097109378413829478
+      TileE-OutsideTown_66: -4971587362479959070
+      TileE-OutsideTown_249: -7807277295597433042
+      TileE-OutsideTown_183: 3730177028697019600
+      TileE-OutsideTown_90: 3715244465096968301
+      TileE-OutsideTown_107: 3937142251564155785
+      TileE-OutsideTown_153: 3938439372987076418
+      TileE-OutsideTown_121: 210663030638240555
+      TileE-OutsideTown_82: 8931364029714434740
+      TileE-OutsideTown_104: 1354267442228514574
+      TileE-OutsideTown_14: -779240315473111717
+      TileE-OutsideTown_34: 2264575567605039684
+      TileE-OutsideTown_113: -5389835364537777464
+      TileE-OutsideTown_5: 951398666372839921
+      TileE-OutsideTown_133: -8793406033105085386
+      TileE-OutsideTown_30: -1054330348696720988
+      TileE-OutsideTown_126: -6412237945567874189
+      TileE-OutsideTown_37: 4153479453541543258
+      TileE-OutsideTown_234: 2546494854003054744
+      TileE-OutsideTown_186: 8732536068810355556
+      TileE-OutsideTown_25: 4087742827386394650
+      TileE-OutsideTown_200: 3736252261273751434
+      TileE-OutsideTown_242: -6300519074753896862
+      TileE-OutsideTown_13: -1850846296078371142
+      TileE-OutsideTown_182: -9147923471235229621
+      TileE-OutsideTown_102: -8479204156654146354
+      TileE-OutsideTown_158: 3092565116578353682
+      TileE-OutsideTown_3: 131245512477502028
+      TileE-OutsideTown_58: -7179096542789279869
+      TileE-OutsideTown_53: 9008197593349922268
+      TileE-OutsideTown_36: -1058584281943640420
+      TileE-OutsideTown_99: -6128441080195691756
+      TileE-OutsideTown_241: -3097528428936267785
+      TileE-OutsideTown_137: 4116389708279374491
+      TileE-OutsideTown_45: -4432609824532945862
+      TileE-OutsideTown_71: 7759378608709281345
+      TileE-OutsideTown_176: 887136610475882279
+      TileE-OutsideTown_226: 5238510543670764287
+      TileE-OutsideTown_141: 2380292421908880707
+      TileE-OutsideTown_10: 4849654087491376715
+      TileE-OutsideTown_7: -5520794978875519847
+      TileE-OutsideTown_27: 1494751652296610946
+      TileE-OutsideTown_194: 1077713257081148945
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

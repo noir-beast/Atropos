@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/Scenes/menu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/0.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/Scenes/\u5BDD\u5BA4\u8D70\u5ECA.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/\u5BDD\u5BA4\u697C\u4E0B.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/Scenes/\u64CD\u573A.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/Scenes/\u5C94\u8DEF\u53E3.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0

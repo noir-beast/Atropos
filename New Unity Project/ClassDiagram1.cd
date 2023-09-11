@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ConversationScript">
+    <Position X="15.25" Y="2.25" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAEAEBABAAAgAAAAAAAFAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\script\Event\ConversationScript.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EventController" Collapsed="true">
+    <Position X="13" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAASAAgAAAAAAIAAAAAEAAAAABQAACAAACAAQ=</HashCode>
+      <FileName>Assets\script\control\EventController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogController" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABABAAAgAAAAAAAIAAAAAAgBEIAAAAACAAAAAAEA=</HashCode>
+      <FileName>Assets\script\control\DialogController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeController" Collapsed="true">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAgAABAAAAAQAIAAAAAAEA=</HashCode>
+      <FileName>Assets\script\control\CodeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventManager" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAACAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\EventManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodeManager">
+    <Position X="6.25" Y="5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAUGIAAAACAAACAAABEBAIBAEABAAAAAAAACAgAAJMA=</HashCode>
+      <FileName>Assets\script\NodeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogManager" Collapsed="true">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAAAAEAAAAAAAAAAAAABAAAAAAAACAAAAAOA=</HashCode>
+      <FileName>Assets\script\LogManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeData" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAgAAAAAAAAAAAMADEAIABAAAABAAAAAAICA=</HashCode>
+      <FileName>Assets\script\CodeData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingleNode">
+    <Position X="9.5" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>kAFQShCECiSGnIAhABTDkAQiC1JIACAEIBUTikEGjgA=</HashCode>
+      <FileName>Assets\script\SingleNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OutputNode">
+    <Position X="12.75" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AARIAAAAECAgBACAAAACAAAAAAAAABAAIAAAAAAgAAA=</HashCode>
+      <FileName>Assets\script\OutputNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputNode">
+    <Position X="6.75" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAQEAAAAAiAgBAAAAAAAAAQAAAAAAAAIIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\InputNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="1" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>hAQQyABAACgAAAAgAAIAAAAAAABACQQABBAQAAAAEEA=</HashCode>
+      <FileName>Assets\script\control\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataKeeper" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAgCAAAAAEAAAAAAAABAAAAACBAAAAAAgEA=</HashCode>
+      <FileName>Assets\script\DataKeeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangeScenes" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQEAAAACAAAAAAIAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\Event\ChangeScenes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileIO" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAABEEAAABDAAAQIABACAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\script\FileIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderLine" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAABAAIAAAAQAAAAAAAgAAAAACCIAAAAA=</HashCode>
+      <FileName>Assets\script\OrderLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveData" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgCAAAAAAAAAAAQAAAAAAAAABAAAAAAggA=</HashCode>
+      <FileName>Assets\script\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TISInputField" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIAAAAAAAAAgAAAAAAAAAAAAgAAQAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\script\TISInputField0.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraController" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAA=</HashCode>
+      <FileName>Assets\script\UI\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogViewer" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAACAAAAAAIAAAsACAAAAEABAIAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\script\UI\DialogViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAgAAgAAAAAAAAAIAAAAAAAAAGAIAAAABAAAA=</HashCode>
+      <FileName>Assets\script\UI\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewInput" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAgAAAAAAAAAAAAgAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\UI\NewInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ConversationPiece">
+    <Position X="19.25" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEgAABAAAAAAAAAAAAAAAAAAAJAAAAAIAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\script\Event\ConversationPiece.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ConversationOption">
+    <Position X="22.5" Y="2.25" Width="1.75" />
+    <Members>
+      <Field Name="enabled" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQEAAACAAAAAAAAAAAAIAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\script\Event\ConversationOption.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
